@@ -26,14 +26,14 @@
 % REMOVE BEFORE SUBMISSION
 \usepackage{amsmath,amssymb,graphicx}
 \usepackage{dcolumn}%
-%%\usepackage{array,multirow}
+\usepackage{array,multirow}
 \usepackage{bm}%
 \usepackage{cite}
 \usepackage{pstool}%
 \usepackage{array}
 \usepackage{xcolor}
 \usepackage{subcaption,subfloat} % lets you have multiple pictures next to each other
-\usepackage{upgreek}
+%%\usepackage{upgreek}
 %\usepackage[numbers,sort&compress]{natbib}
 \newcommand{\beginsupplement}{%
         \setcounter{table}{0}
@@ -1259,24 +1259,24 @@ The high solar radiation absorption can be achieved by fabrication techniques su
 \subsection{Solar thermal}
 Solar thermal (ST) systems are solar powered devices that generate energy via a heat engine.  Incoming solar energy is concentrated on an absorbing surface, which is heated to high temperatures.  A heat exchange fluid is then used to draw energy from the absorbing surface to the heat engine.  Since heat engines can be more efficient at higher operating temperatures, ST systems operate at high temperatures, up to 1000$^\circ$C.
 
-Operating at such high temperatures means that there will be a large amount of thermal emission from the absorbing surface, resulting in a loss of energy.  To reduce this loss, the thermal emittance of the absorbing surface must be minimized.  Here, we will define $\upepsilon_{abs}$ as the thermal emittance of an absorbing surface held at a specific temperature relative to the thermal emittance of a blackbody held at the same temperature.  This means that an absorbing surface with an $\upepsilon_{abs}$ of 0.5 at 1000$^\circ$C would have half the thermal emission of a blackbody at 1000$^\circ$C.  Note that the $\upepsilon_{abs}$ of a surface can change drastically with temperature if its reflectivity and absorbance change for different wavelengths of light.  This is because the spectral composition of blackbody radiation changes with temperature.  At the same time, the solar absorptance ($\upalpha_{sol}$) of the surface must be maximized to ensure a high power input into the device.
+Operating at such high temperatures means that there will be a large amount of thermal emission from the absorbing surface, resulting in a loss of energy.  To reduce this loss, the thermal emittance of the absorbing surface must be minimized.  Here, we will define $\epsilon_{abs}$ as the thermal emittance of an absorbing surface held at a specific temperature relative to the thermal emittance of a blackbody held at the same temperature.  This means that an absorbing surface with an $\epsilon_{abs}$ of 0.5 at 1000$^\circ$C would have half the thermal emission of a blackbody at 1000$^\circ$C.  Note that the $\epsilon_{abs}$ of a surface can change drastically with temperature if its reflectivity and absorbance change for different wavelengths of light.  This is because the spectral composition of blackbody radiation changes with temperature.  At the same time, the solar absorptance ($\alpha_{sol}$) of the surface must be maximized to ensure a high power input into the device.
 
-For a surface to have high $\upalpha_{sol}$ and low $\upepsilon_{abs}$, it must have a low reflectance and high absorbance in visible wavelengths (where most solar light is located), and a high reflectance in the near infra-red (NIR) region (where most thermal emission is located).  This is a type of spectrally selective surface.  These surfaces must also remain stable under the high operating temperatures found in ST systems.  The relative importance of high $\upalpha_{sol}$ and low $\upepsilon_{abs}$ can change due to changes in system parameters.  For example, higher operating temperatures increase thermal emission and place more importance on achieving a low $\upepsilon_{abs}$, while higher solar concentrations result in achieving a high $\upalpha_{sol}$ being more important.
+For a surface to have high $\alpha_{sol}$ and low $\epsilon_{abs}$, it must have a low reflectance and high absorbance in visible wavelengths (where most solar light is located), and a high reflectance in the near infra-red (NIR) region (where most thermal emission is located).  This is a type of spectrally selective surface.  These surfaces must also remain stable under the high operating temperatures found in ST systems.  The relative importance of high $\alpha_{sol}$ and low $\epsilon_{abs}$ can change due to changes in system parameters.  For example, higher operating temperatures increase thermal emission and place more importance on achieving a low $\epsilon_{abs}$, while higher solar concentrations result in achieving a high $\alpha_{sol}$ being more important.
 
 Spectrally-selective surfaces are much studied in ST research 
-because they can lead to high-efficiency systems.  While coatings for lower (\textless500$^\circ$C) temperatures have been extensively studied, they are generally not suitable for high temperature operation due to a lack of thermal stability \cite{A1}.  Some research has attempted to use silicon or germanium based absorbers, but their high solar reflectance necessitates the use of broad-band anti-reflective coatings which results in high $\upepsilon_{abs}$, and their performance degrades at high temperatures due to oxidation \cite{A2}. 
+because they can lead to high-efficiency systems.  While coatings for lower (\textless500$^\circ$C) temperatures have been extensively studied, they are generally not suitable for high temperature operation due to a lack of thermal stability \cite{A1}.  Some research has attempted to use silicon or germanium based absorbers, but their high solar reflectance necessitates the use of broad-band anti-reflective coatings which results in high $\epsilon_{abs}$, and their performance degrades at high temperatures due to oxidation \cite{A2}. 
 
-Stacks of layered dielectric and metallic films can be used to control the reflectance of structures via multiple reflections and interference effects \cite{A3}.  Many different materials have been investigated for this purpose, including stacks using tungsten, molybdenum, titanium oxide, and magnesium fluoride that had an $\upepsilon_{abs}$\textless7\% and $\upalpha_{sol}$\textgreater94\% \cite{paper1_ref7,stacks2, A2}.  Unfortunately, fabrication of these surfaces requires vacuum deposition of multiple layers with precise thickness, which can be difficult.
+Stacks of layered dielectric and metallic films can be used to control the reflectance of structures via multiple reflections and interference effects \cite{A3}.  Many different materials have been investigated for this purpose, including stacks using tungsten, molybdenum, titanium oxide, and magnesium fluoride that had an $\epsilon_{abs}$\textless7\% and $\alpha_{sol}$\textgreater94\% \cite{paper1_ref7,stacks2, A2}.  Unfortunately, fabrication of these surfaces requires vacuum deposition of multiple layers with precise thickness, which can be difficult.
 
-Ceramic-metal composites (cermets) consist of metallic particles in a dielectric host that are often used as spectrally selective surfaces in ST applications.  The metallic particles in the cermet layer result in high $\upalpha_{sol}$ due to multiple reflections, and they are typically used on metallic substrates with high IR reflectance, resulting in low $\upepsilon_{abs}$ \cite{A2,A4,A5,A6,A7,A8,A9,A10}.  The disadvantages of cermets include sensitivity to oxygen at high temperatures and the requirement for vacuum fabrication methods.
+Ceramic-metal composites (cermets) consist of metallic particles in a dielectric host that are often used as spectrally selective surfaces in ST applications.  The metallic particles in the cermet layer result in high $\alpha_{sol}$ due to multiple reflections, and they are typically used on metallic substrates with high IR reflectance, resulting in low $\epsilon_{abs}$ \cite{A2,A4,A5,A6,A7,A8,A9,A10}.  The disadvantages of cermets include sensitivity to oxygen at high temperatures and the requirement for vacuum fabrication methods.
 
 Nanotextured surfaces can be stable at high temperatures when they are 
 formed from high melting point metals such as tungsten and tantalum and are coated with a protective oxide \cite{paper1_ref5}.  They also lend themselves to fabrication using the methods described in this report.  Because these methods take advantage of surface geometry, they do not require multiple materials, resulting in a high thermal stability.  Indeed, nanostructures of tungsten coated with a protective hafnium coating have been shown to be stable to temperatures of 1100 $^\circ$C in air \cite{paper1_ref5,Therm_stabil_W_microstructures}.  Tantalum photonic crystals have also been reported to be stable at temperatures of over 1000$^\circ$C \cite{photonic_crystal_rev}.
 
-Periodic sub-wavelength gratings on tungsten substrates have been fabricated with an $\upalpha_{sol}$ of 82\% and $\upepsilon_{abs}$ of 5.6\% at 770$^\circ$C and were experimentally verified to be 
+Periodic sub-wavelength gratings on tungsten substrates have been fabricated with an $\alpha_{sol}$ of 82\% and $\epsilon_{abs}$ of 5.6\% at 770$^\circ$C and were experimentally verified to be 
 stable up to temperatures of 900 $^\circ$C \cite{A13}.  These structures cause standing wave resonances that can be tuned for solar absorption.
 
-Sub-wavelength roughness on metallic substrates can also increase solar absorbance due to the surface acting as a graded index medium \cite{A13,A19}.  The $\upepsilon_{abs}$ of these surfaces can be kept low because NIR wavelengths are much longer than the dimensions of the roughness, so the surface appears smooth \cite{A14}.  An advantage of these types of structures is that they do not require periodicity, and randomness can in fact be an advantage \cite{me1}.  Simulations have shown pseudo-random nanocones on a tungsten substrate to have an $\upalpha_{sol}$ of 97\% and $\upepsilon_{abs}$ of 16\% at 1400 $^\circ$C \cite{me1}.  Experimental data on surface roughness created by laser-sintering of nanoparticles have shown an $\upalpha_{sol}$ of 83\% and $\upepsilon_{abs}$ of 11.6\% \cite{g21}.
+Sub-wavelength roughness on metallic substrates can also increase solar absorbance due to the surface acting as a graded index medium \cite{A13,A19}.  The $\epsilon_{abs}$ of these surfaces can be kept low because NIR wavelengths are much longer than the dimensions of the roughness, so the surface appears smooth \cite{A14}.  An advantage of these types of structures is that they do not require periodicity, and randomness can in fact be an advantage \cite{me1}.  Simulations have shown pseudo-random nanocones on a tungsten substrate to have an $\alpha_{sol}$ of 97\% and $\epsilon_{abs}$ of 16\% at 1400 $^\circ$C \cite{me1}.  Experimental data on surface roughness created by laser-sintering of nanoparticles have shown an $\alpha_{sol}$ of 83\% and $\epsilon_{abs}$ of 11.6\% \cite{g21}.
 
 \subsection{Solar thermophotovoltaics}
 Typical STPV systems consist of an absorbing/emitting structure that is held under vacuum to reduce convective losses and increase thermal stability~\cite{global_opt, convection}.  Then, sunlight is focused on the absorbing surface of the structure, where it is absorbed and converted into thermal energy.  This results in the absorbing/emitting structure becoming very hot, with temperatures up to 1750 K common in these systems.  As the system temperature rises, it begins to emit a large amount of thermal radiation.  The portion of thermal energy that is emitted by the emitting surface can then be collected by a PV cell and converted into electrical energy.  An additional advantage of STPV systems is their ability to store absorbed energy as heat, which is more efficient than battery storage with traditional PV cells.  STPV technology can also be easily adapted to thermophotovoltaic (TPV) systems, which operate similarly but use a burning fuel or waste heat as a thermal source instead of the sun. By transforming the incoming solar radiation from a broad-band source to a more narrow-band one, STPV systems can operate at efficiencies exceeding the Shockley-Queisser limit of 44\% for silicon PV cells operating under diffuse radiation~\cite{SQ}.  In fact, the upper {\it theoretical} limit for STPV system efficiency is 85.4\%~\cite{A2}.
@@ -1288,7 +1288,7 @@ Typical STPV systems consist of an absorbing/emitting structure that is held und
 		\begin{tabular}{|llll|}
 			%\begin{tabular}{|p{5.3cm}|p{2.6cm}|}
 			\hline
-			Absorber type & Absorber efficiency & $\upalpha_{sol}$ & $\upepsilon_{abs}$\\
+			Absorber type & Absorber efficiency & $\alpha_{sol}$ & $\epsilon_{abs}$\\
 			\hline	
 			Ideal solar absorber & 0.83 & 0.87 & 0.04\\
 			Pseudo random nano-cones in W & 0.80 & 0.97 & 0.16~\cite{me1}\\
@@ -1307,20 +1307,20 @@ Typical STPV systems consist of an absorbing/emitting structure that is held und
 \end{table}
 
 The absorbing surfaces for STPV devices are similar to those used in ST systems, although higher operating temperatures (up to around 1750 K) 
-make thermal stability a more prominent concern, and high levels of solar concentration (\textgreater4000) make a high $\upalpha_{sol}$ of 
+make thermal stability a more prominent concern, and high levels of solar concentration (\textgreater4000) make a high $\alpha_{sol}$ of 
 paramount concern.  This means that nanotextured absorbing surfaces are a very good match for these systems.  Most experimental STPV systems 
 to date have utilized blackbody absorbing surfaces \cite{exp_tokyo,exp_madrid,exp_russia,MIT_paper}, leaving room for much improvement by using 
 selective absorbing surfaces. Recent results have reported record efficiencies~\cite{g11,SKY_JPE_2015} using both 
 selective absorbers and selective emitters. A yttria-stabilized zirconia and tungsten stack was used as a selective absorber in an experimental system~\cite{SKY_JPE_2015}, 
-but while it's thermal emission was low, its performance was hindered by a low $\upalpha_{sol}$ of 80\%.  Simulations of various surfaces 
+but while it's thermal emission was low, its performance was hindered by a low $\alpha_{sol}$ of 80\%.  Simulations of various surfaces 
 have shown large gains in system efficiency from the use of nanotextured selective, such as pseudo-random 
-nanocones with an $\upalpha_{sol}$ of 97\% and $\upepsilon_{abs}$ of 16\% \cite{me1}, or pyramidal nanostructures in tungsten 
-with an $\upalpha_{sol}$ of 92\% and $\upepsilon_{abs}$ of 13\% \cite{paper1_ref4} but none have been experimentally 
+nanocones with an $\alpha_{sol}$ of 97\% and $\epsilon_{abs}$ of 16\% \cite{me1}, or pyramidal nanostructures in tungsten 
+with an $\alpha_{sol}$ of 92\% and $\epsilon_{abs}$ of 13\% \cite{paper1_ref4} but none have been experimentally 
 demonstrated in a working STPV system to date \cite{paper1_ref5,paper1_ref6}.
 
 Various methods of evaluating STPV system performance exist, but in this work we will focus on the relative efficiencies of the individual surfaces of an STPV device.  This allows us to directly compare different methods of making selective absorbing and emitting surfaces.  Many parameters in STPV systems can effect the performance of these surfaces, so an operating temperature of 1450$^\circ$C, a solar concentration of 2500, and a GaSb solar cell are assumed here due to their prevalence in STPV systems~\cite{exp_tokyo,exp_madrid,exp_russia,me1,me2,RF_OptExp_2009}.  This provides for a good relative comparison of different surfaces, although it is not a measure of overall device efficiency.
 
-Table \ref{abs_eff_table} shows the $\upalpha_{sol}$ and $\upepsilon_{abs}$ of some absorbing surfaces, as well as a calculated surface efficiency.  The quantity $\eta_{abs}$ is given by
+Table \ref{abs_eff_table} shows the $\alpha_{sol}$ and $\epsilon_{abs}$ of some absorbing surfaces, as well as a calculated surface efficiency.  The quantity $\eta_{abs}$ is given by
 \begin{align}
 \label{overall_sss_eq}\eta_{abs}(T)& = \frac{\int_{0}^{\infty}\left\{E_{inc}(\lambda)\alpha(\lambda)-\epsilon(\lambda)B(\lambda,T)\right\}d\lambda}{\int_{0}^{\infty}E_{inc}(\lambda)d\lambda}\\
 \label{e_incident}E_{inc}(\lambda) &= C \: \eta_{conc} \: E_{sun}(\lambda),
