@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.10.20)  12 FEB 2017 07:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.10.20)  12 FEB 2017 07:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -201,19 +201,6 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip47
 )
-(./opex3.sty
-Package: opex3 2003/06/10 LaTeX package for OSA Optics Express
- (./geometry.sty
-Package: geometry 2002/07/08 v3.2 Page Geometry
-\Gm@cnth=\count110
-\Gm@cntv=\count111
-\c@Gm@tempcnt=\count112
-\Gm@bindingoffset=\dimen115
-\Gm@wd@mp=\dimen116
-\Gm@odd@mp=\dimen117
-\Gm@even@mp=\dimen118
-\Gm@dimlist=\toks18
-)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
@@ -224,7 +211,75 @@ Package color Info: Driver file: pdftex.def on input line 130.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count113
+\Gread@gobject=\count110
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen115
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count111
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count112
+\leftroot@=\count113
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count114
+\DOTSCASE@=\count115
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count116
+\c@MaxMatrixCols=\count117
+\dotsspace@=\muskip11
+\c@parentequation=\count118
+\dspbrk@lvl=\count119
+\tag@help=\toks19
+\row@=\count120
+\column@=\count121
+\maxfields@=\count122
+\andhelp@=\toks20
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks21
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
@@ -240,220 +295,29 @@ File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 )
-\Gin@req@height=\dimen119
-\Gin@req@width=\dimen120
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
 )
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
-Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
-LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
-(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
-LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
-(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
-LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
-\symbold=\mathgroup4
-\symitalic=\mathgroup5
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
-LaTeX Info: Redefining \hbar on input line 50.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty
-Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
-Package textcomp Info: Sub-encoding information:
-(textcomp)               5 = only ISO-Adobe without \textcurrency
-(textcomp)               4 = 5 + \texteuro
-(textcomp)               3 = 4 + \textohm
-(textcomp)               2 = 3 + \textestimated + \textcurrency
-(textcomp)               1 = TS1 - \textcircled - \t
-(textcomp)               0 = TS1 (full)
-(textcomp)             Font families with sub-encoding setting implement
-(textcomp)             only a restricted character set as indicated.
-(textcomp)             Family '?' is the default used for unknown fonts.
-(textcomp)             See the documentation for details.
-Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
-File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-)
-LaTeX Info: Redefining \oldstylenums on input line 266.
-Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
-Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
-Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
-Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
-Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
-Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
-Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
-Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
-Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
-Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
-Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
-Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
-Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
-Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
-Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
-Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
-Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
-Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
-Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
-Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
-Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
-Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
-Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
-Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
-
-Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
-Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
-Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
-Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
-Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
-Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
-Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
-Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
-Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
-Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
-Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
-Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
-Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
-Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
-Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
-Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
-Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
-Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
-Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
-Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
-Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
-Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
-Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
-Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
-Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
-Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
-Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
-Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
-Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
-Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
-Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
-Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
-Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
-Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
-Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
-Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
-Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
-)
-
-Package geometry Warning: Over-specification in `v'-direction.
-    `height' (600.0pt) is ignored.
-
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
-\@mathmargin=\skip48
-
-For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks19
-\ex@=\dimen121
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen122
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count114
-LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count115
-\leftroot@=\count116
-LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count117
-\DOTSCASE@=\count118
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
-\Mathstrutbox@=\box31
-\strutbox@=\box32
-\big@size=\dimen123
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count119
-\c@MaxMatrixCols=\count120
-\dotsspace@=\muskip11
-\c@parentequation=\count121
-\dspbrk@lvl=\count122
-\tag@help=\toks20
-\row@=\count123
-\column@=\count124
-\maxfields@=\count125
-\andhelp@=\toks21
-\eqnshift@=\dimen124
-\alignsep@=\dimen125
-\tagshift@=\dimen126
-\tagwidth@=\dimen127
-\totwidth@=\dimen128
-\lineht@=\dimen129
-\@envbody=\toks22
-\multlinegap=\skip49
-\multlinetaggap=\skip50
-\mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup6
-\symAMSb=\mathgroup7
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
 (/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
 Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen130
-\extrarowheight=\dimen131
-\NC@list=\toks24
+\col@sep=\dimen126
+\extrarowheight=\dimen127
+\NC@list=\toks23
 \extratabsurround=\skip51
 \backup@length=\skip52
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-\bigstrutjot=\dimen132
+\bigstrutjot=\dimen128
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
 LaTeX Info: Redefining \bm on input line 204.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pstool/pstool.sty
@@ -479,8 +343,8 @@ Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/psfrag/psfrag.sty
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
-\pfg@pcount=\count126
-\pfg@scount=\count127
+\pfg@pcount=\count123
+\pfg@scount=\count124
 \pfg@temp=\write4
 )
 (/usr/share/texlive/texmf-dist/tex/latex/bigfoot/suffix.sty
@@ -493,9 +357,9 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-\XKV@toks=\toks25
-\XKV@tempa@toks=\toks26
-\XKV@depth=\count128
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+\XKV@depth=\count125
 File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -507,7 +371,7 @@ Package: l3names 2014/01/04 v4640 L3 Namespace for primitives
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count129
+\et@xins=\count126
 )
 Package: expl3 2014/01/07 v4646 L3 Experimental code bundle wrapper
 
@@ -525,18 +389,18 @@ Package: l3seq 2013/12/14 v4623 L3 Sequences and stacks
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3int.sty
 Package: l3int 2013/08/02 v4583 L3 Integers
-\c_max_int=\count130
-\l_tmpa_int=\count131
-\l_tmpb_int=\count132
-\g_tmpa_int=\count133
-\g_tmpb_int=\count134
+\c_max_int=\count127
+\l_tmpa_int=\count128
+\l_tmpb_int=\count129
+\g_tmpa_int=\count130
+\g_tmpb_int=\count131
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3quark.sty
 Package: l3quark 2013/12/14 v4623 L3 Quarks
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3prg.sty
 Package: l3prg 2014/01/04 v4642 L3 Control structures
-\g__prg_map_int=\count135
+\g__prg_map_int=\count132
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3clist.sty
 Package: l3clist 2013/07/28 v4581 L3 Comma separated lists
@@ -552,20 +416,20 @@ Package: l3msg 2013/07/28 v4581 L3 Messages
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3file.sty
 Package: l3file 2013/10/13 v4596 L3 File and I/O operations
-\l_iow_line_count_int=\count136
-\l__iow_target_count_int=\count137
-\l__iow_current_line_int=\count138
-\l__iow_current_word_int=\count139
-\l__iow_current_indentation_int=\count140
+\l_iow_line_count_int=\count133
+\l__iow_target_count_int=\count134
+\l__iow_current_line_int=\count135
+\l__iow_current_word_int=\count136
+\l__iow_current_indentation_int=\count137
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3skip.sty
 Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
-\c_zero_dim=\dimen133
-\c_max_dim=\dimen134
-\l_tmpa_dim=\dimen135
-\l_tmpb_dim=\dimen136
-\g_tmpa_dim=\dimen137
-\g_tmpb_dim=\dimen138
+\c_zero_dim=\dimen129
+\c_max_dim=\dimen130
+\l_tmpa_dim=\dimen131
+\l_tmpb_dim=\dimen132
+\g_tmpa_dim=\dimen133
+\g_tmpb_dim=\dimen134
 \c_zero_skip=\skip53
 \c_max_skip=\skip54
 \l_tmpa_skip=\skip55
@@ -581,20 +445,20 @@ Package: l3skip 2013/07/28 v4581 L3 Dimensions and skips
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3keys.sty
 Package: l3keys 2013/12/08 v4614 L3 Experimental key-value interfaces
-\g__keyval_level_int=\count141
-\l_keys_choice_int=\count142
+\g__keyval_level_int=\count138
+\l_keys_choice_int=\count139
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3fp.sty
 Package: l3fp 2014/01/04 v4642 L3 Floating points
-\c__fp_leading_shift_int=\count143
-\c__fp_middle_shift_int=\count144
-\c__fp_trailing_shift_int=\count145
-\c__fp_big_leading_shift_int=\count146
-\c__fp_big_middle_shift_int=\count147
-\c__fp_big_trailing_shift_int=\count148
-\c__fp_Bigg_leading_shift_int=\count149
-\c__fp_Bigg_middle_shift_int=\count150
-\c__fp_Bigg_trailing_shift_int=\count151
+\c__fp_leading_shift_int=\count140
+\c__fp_middle_shift_int=\count141
+\c__fp_trailing_shift_int=\count142
+\c__fp_big_leading_shift_int=\count143
+\c__fp_big_middle_shift_int=\count144
+\c__fp_big_trailing_shift_int=\count145
+\c__fp_Bigg_leading_shift_int=\count146
+\c__fp_Bigg_middle_shift_int=\count147
+\c__fp_Bigg_trailing_shift_int=\count148
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3box.sty
 Package: l3box 2013/07/28 v4581 L3 Experimental boxes
@@ -607,13 +471,13 @@ Package: l3box 2013/07/28 v4581 L3 Experimental boxes
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3coffins.sty
 Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
 \l__coffin_internal_box=\box38
-\l__coffin_internal_dim=\dimen139
-\l__coffin_offset_x_dim=\dimen140
-\l__coffin_offset_y_dim=\dimen141
-\l__coffin_x_dim=\dimen142
-\l__coffin_y_dim=\dimen143
-\l__coffin_x_prime_dim=\dimen144
-\l__coffin_y_prime_dim=\dimen145
+\l__coffin_internal_dim=\dimen135
+\l__coffin_offset_x_dim=\dimen136
+\l__coffin_offset_y_dim=\dimen137
+\l__coffin_x_dim=\dimen138
+\l__coffin_y_dim=\dimen139
+\l__coffin_x_prime_dim=\dimen140
+\l__coffin_y_prime_dim=\dimen141
 \c_empty_coffin=\box39
 \l__coffin_aligned_coffin=\box40
 \l__coffin_aligned_internal_coffin=\box41
@@ -622,36 +486,36 @@ Package: l3coffins 2013/12/14 v4624 L3 Coffin code layer
 \l__coffin_display_coffin=\box44
 \l__coffin_display_coord_coffin=\box45
 \l__coffin_display_pole_coffin=\box46
-\l__coffin_display_offset_dim=\dimen146
-\l__coffin_display_x_dim=\dimen147
-\l__coffin_display_y_dim=\dimen148
+\l__coffin_display_offset_dim=\dimen142
+\l__coffin_display_x_dim=\dimen143
+\l__coffin_display_y_dim=\dimen144
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3color.sty
 Package: l3color 2012/08/29 v4156 L3 Experimental color support
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3luatex.sty
 Package: l3luatex 2013/07/28 v4581 L3 Experimental LuaTeX-specific functions
-\g__cctab_allocate_int=\count152
-\g__cctab_stack_int=\count153
+\g__cctab_allocate_int=\count149
+\g__cctab_stack_int=\count150
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3candidates.sty
 Package: l3candidates 2014/01/06 v4643 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen149
-\l__box_bottom_dim=\dimen150
-\l__box_left_dim=\dimen151
-\l__box_right_dim=\dimen152
-\l__box_top_new_dim=\dimen153
-\l__box_bottom_new_dim=\dimen154
-\l__box_left_new_dim=\dimen155
-\l__box_right_new_dim=\dimen156
+\l__box_top_dim=\dimen145
+\l__box_bottom_dim=\dimen146
+\l__box_left_dim=\dimen147
+\l__box_right_dim=\dimen148
+\l__box_top_new_dim=\dimen149
+\l__box_bottom_new_dim=\dimen150
+\l__box_left_new_dim=\dimen151
+\l__box_right_new_dim=\dimen152
 \l__box_internal_box=\box47
-\l__coffin_bounding_shift_dim=\dimen157
-\l__coffin_left_corner_dim=\dimen158
-\l__coffin_right_corner_dim=\dimen159
-\l__coffin_bottom_corner_dim=\dimen160
-\l__coffin_top_corner_dim=\dimen161
-\l__coffin_scaled_total_height_dim=\dimen162
-\l__coffin_scaled_width_dim=\dimen163
+\l__coffin_bounding_shift_dim=\dimen153
+\l__coffin_left_corner_dim=\dimen154
+\l__coffin_right_corner_dim=\dimen155
+\l__coffin_bottom_corner_dim=\dimen156
+\l__coffin_top_corner_dim=\dimen157
+\l__coffin_scaled_total_height_dim=\dimen158
+\l__coffin_scaled_width_dim=\dimen159
 ))
 \pstool@out=\write5
 \pstool@mainfile@ior=\read1
@@ -692,31 +556,21 @@ Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen164
-\captionmargin@=\dimen165
-\captionwidth=\dimen166
-\caption@tempdima=\dimen167
-\caption@indent=\dimen168
-\caption@parindent=\dimen169
-\caption@hangindent=\dimen170
-Package caption Info: Unknown document class (or package),
-(caption)             standard defaults will be used.
+\captionmargin=\dimen160
+\captionmargin@=\dimen161
+\captionwidth=\dimen162
+\caption@tempdima=\dimen163
+\caption@indent=\dimen164
+\caption@parindent=\dimen165
+\caption@hangindent=\dimen166
 )
-
-Package caption Warning: Unsupported document class (or package) detected,
-(caption)                usage of the caption package is not recommended.
-See the caption package documentation for explanation.
-
-Package caption Info: \@makecaption = \long macro:#1#2->\small \vskip \abovecap
-tionskip \sbox \@tempboxa {#1. #2}\ifdim \wd \@tempboxa >\@MaxCapWidth \hskip 2
-.25pc\parbox {4.5in}{#1. #2} \else \global \@minipagefalse \hb@xt@ \hsize {\hfi
-l \box \@tempboxa \hfil }\fi \vskip \belowcaptionskip \normalsize .
-\c@ContinuedFloat=\count154
+\c@ContinuedFloat=\count151
 Package caption Info: hyperref package is loaded.
 )
-\c@subfigure=\count155
-\c@subtable=\count156
-) (/usr/share/texlive/texmf-dist/tex/latex/subfloat/subfloat.sty
+\c@subfigure=\count152
+\c@subtable=\count153
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfloat/subfloat.sty
 Package: subfloat 2003/08/21 version 2.14
 
 Package `subfloat', Version 2.14 of 2003/08/21.
@@ -732,33 +586,22 @@ Package subfloat Warning: Numbers of floats not counted:
 ) (./submission.aux)
 \openout1 = `submission.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 50.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 50.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 \AtBeginShipoutBox=\box48
-Package hyperref Info: Link coloring OFF on input line 50.
+Package hyperref Info: Link coloring OFF on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -766,69 +609,30 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count157
+\c@section@level=\count154
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
 
 (./submission.out) (./submission.out)
 \@outlinefile=\write6
 \openout6 = `submission.out'.
 
--------------------- Geometry parameters
-paper: letterpaper
-landscape: --
-twocolumn: --
-twoside: --
-asymmetric: --
-h-parts: 118.79993pt, 378.0pt, 117.49507pt
-v-parts: 78.0pt, 596.96999pt, 120.0pt
-hmarginratio: --
-vmarginratio: --
-lines: --
-heightrounded: --
-bindingoffset: 0.0pt
-truedimen: --
-includehead: --
-includefoot: --
-includemp: --
-driver: pdftex
--------------------- Page layout dimensions and switches
-\paperwidth  614.295pt
-\paperheight 794.96999pt
-\textwidth  378.0pt
-\textheight 596.96999pt
-\oddsidemargin  46.52994pt
-\evensidemargin 46.52994pt
-\topmargin  5.73001pt
-\headheight 0.0pt
-\headsep    0.0pt
-\footskip   30.0pt
-\marginparwidth 65.0pt
-\marginparsep   11.0pt
-\columnsep  10.0pt
-\skip\footins  24.0pt
-\hoffset 0.0pt
-\voffset 0.0pt
-\mag 1000
-
-(1in=72.27pt, 1cm=28.45pt)
------------------------
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count158
-\scratchdimen=\dimen171
+\scratchcounter=\count155
+\scratchdimen=\dimen167
 \scratchbox=\box49
-\nofMPsegments=\count159
-\nofMParguments=\count160
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count161
-\MPscratchDim=\dimen172
-\MPnumerator=\count162
-\makeMPintoPDFobject=\count163
-\everyMPtoPDFconversion=\toks28
+\nofMPsegments=\count156
+\nofMParguments=\count157
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count158
+\MPscratchDim=\dimen168
+\MPnumerator=\count159
+\makeMPintoPDFobject=\count160
+\everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -846,73 +650,20 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 52
-.
+LaTeX Font Info:    Try loading font information for U+msa on input line 79.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 52
-.
+LaTeX Font Info:    Try loading font information for U+msb on input line 79.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 52
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 52
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 61.
-
-Underfull \hbox (badness 1286) in paragraph at lines 64--68
-\OT1/ptm/m/n/10 so-lar ther-mopho-to-voltaics, ther-mopho-to-voltaics, so-lar t
-her-mal, in-frared
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--68
-
- []
-
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 68.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-
- []
-
-[1
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
 Non-PDF special ignored!
 
-{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 85.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 4.59999pt on input line 85.
+
+{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}] [2]
 Package epstopdf Info: Source file: <gfig_bbs.eps>
 (epstopdf)                    date: 2016-02-16 17:25:02
 (epstopdf)                    size: 168429 bytes
@@ -921,15 +672,15 @@ Package epstopdf Info: Source file: <gfig_bbs.eps>
 (epstopdf)                    size: 58922 bytes
 (epstopdf)             Command: <repstopdf --outfile=gfig_bbs-eps-converted-to.
 pdf gfig_bbs.eps>
-(epstopdf)             \includegraphics on input line 101.
+(epstopdf)             \includegraphics on input line 106.
 Package epstopdf Info: Output file is already uptodate.
 
-<gfig_bbs-eps-converted-to.pdf, id=113, 699.61375pt x 213.79875pt>
+<gfig_bbs-eps-converted-to.pdf, id=139, 699.61375pt x 213.79875pt>
 File: gfig_bbs-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gfig_bbs-eps-converted-to.pdf>
-Package pdftex.def Info: gfig_bbs-eps-converted-to.pdf used on input line 101.
-(pdftex.def)             Requested size: 378.0pt x 115.51485pt.
+Package pdftex.def Info: gfig_bbs-eps-converted-to.pdf used on input line 106.
+(pdftex.def)             Requested size: 345.0pt x 105.43106pt.
 Package epstopdf Info: Source file: <gfig_surfs.eps>
 (epstopdf)                    date: 2016-02-16 17:25:02
 (epstopdf)                    size: 29402 bytes
@@ -938,19 +689,17 @@ Package epstopdf Info: Source file: <gfig_surfs.eps>
 (epstopdf)                    size: 12855 bytes
 (epstopdf)             Command: <repstopdf --outfile=gfig_surfs-eps-converted-t
 o.pdf gfig_surfs.eps>
-(epstopdf)             \includegraphics on input line 106.
+(epstopdf)             \includegraphics on input line 111.
 Package epstopdf Info: Output file is already uptodate.
 
-<gfig_surfs-eps-converted-to.pdf, id=114, 564.1075pt x 47.17625pt>
+<gfig_surfs-eps-converted-to.pdf, id=140, 564.1075pt x 47.17625pt>
 File: gfig_surfs-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gfig_surfs-eps-converted-to.pdf>
-Package pdftex.def Info: gfig_surfs-eps-converted-to.pdf used on input line 106
+Package pdftex.def Info: gfig_surfs-eps-converted-to.pdf used on input line 111
 .
-(pdftex.def)             Requested size: 378.0pt x 31.61223pt.
- [2
-
-]
+(pdftex.def)             Requested size: 345.0pt x 28.85231pt.
+ [3 <./gfig_bbs-eps-converted-to.pdf> <./gfig_surfs-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ideal_STPV_eff.eps>
 (epstopdf)                    date: 2016-02-16 17:25:02
 (epstopdf)                    size: 70456 bytes
@@ -959,18 +708,17 @@ Package epstopdf Info: Source file: <ideal_STPV_eff.eps>
 (epstopdf)                    size: 26071 bytes
 (epstopdf)             Command: <repstopdf --outfile=ideal_STPV_eff-eps-convert
 ed-to.pdf ideal_STPV_eff.eps>
-(epstopdf)             \includegraphics on input line 149.
+(epstopdf)             \includegraphics on input line 154.
 Package epstopdf Info: Output file is already uptodate.
 
-<ideal_STPV_eff-eps-converted-to.pdf, id=173, 420.57124pt x 316.18124pt>
+<ideal_STPV_eff-eps-converted-to.pdf, id=188, 420.57124pt x 316.18124pt>
 File: ideal_STPV_eff-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ideal_STPV_eff-eps-converted-to.pdf>
 Package pdftex.def Info: ideal_STPV_eff-eps-converted-to.pdf used on input line
- 149.
-(pdftex.def)             Requested size: 189.0pt x 142.08725pt.
- [3 <./gfig_bbs-eps-converted-to.pdf> <./gfig_surfs-eps-converted-to.pdf>] [4 <
-./ideal_STPV_eff-eps-converted-to.pdf>] [5] [6]
+ 154.
+(pdftex.def)             Requested size: 172.5pt x 129.68338pt.
+ [4] [5 <./ideal_STPV_eff-eps-converted-to.pdf>] [6] [7] [8] [9]
 Package epstopdf Info: Source file: <Halas_Celanovic.eps>
 (epstopdf)                    date: 2016-02-16 17:25:02
 (epstopdf)                    size: 234775 bytes
@@ -979,39 +727,44 @@ Package epstopdf Info: Source file: <Halas_Celanovic.eps>
 (epstopdf)                    size: 119750 bytes
 (epstopdf)             Command: <repstopdf --outfile=Halas_Celanovic-eps-conver
 ted-to.pdf Halas_Celanovic.eps>
-(epstopdf)             \includegraphics on input line 289.
+(epstopdf)             \includegraphics on input line 294.
 Package epstopdf Info: Output file is already uptodate.
 
-<Halas_Celanovic-eps-converted-to.pdf, id=277, 807.015pt x 328.22626pt>
+<Halas_Celanovic-eps-converted-to.pdf, id=294, 807.015pt x 328.22626pt>
 File: Halas_Celanovic-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Halas_Celanovic-eps-converted-to.pdf>
 Package pdftex.def Info: Halas_Celanovic-eps-converted-to.pdf used on input lin
-e 289.
-(pdftex.def)             Requested size: 378.0pt x 153.74048pt.
+e 294.
+(pdftex.def)             Requested size: 345.0pt x 140.31818pt.
 
-<Planar.png, id=284, 1084.05pt x 844.15375pt>
+<Planar.png, id=301, 1084.05pt x 844.15375pt>
 File: Planar.png Graphic file (type png)
  <use Planar.png>
-Package pdftex.def Info: Planar.png used on input line 311.
-(pdftex.def)             Requested size: 378.0pt x 294.3505pt.
+Package pdftex.def Info: Planar.png used on input line 316.
+(pdftex.def)             Requested size: 345.0pt x 268.65343pt.
+ [10]
+
+Package natbib Warning: Citation `FMS_ACSPhoton_2014' on page 11 undefined on i
+nput line 359.
 
 
-Package natbib Warning: Citation `FMS_ACSPhoton_2014' on page 7 undefined on in
-put line 354.
+Package natbib Warning: Citation `CWH_JQSRT_2005' on page 11 undefined on input
+ line 359.
 
+[11 <./Halas_Celanovic-eps-converted-to.pdf>] [12]
+Overfull \hbox (3.20323pt too wide) in paragraph at lines 377--377
+[]\OT1/cmr/m/it/10 Design of se-lec-tive emit-ters for ther-mopho-to-voltaic ap
+-pli-ca-tions us-ing Trans-
+ []
 
-Package natbib Warning: Citation `CWH_JQSRT_2005' on page 7 undefined on input 
-line 354.
-
-[7 <./Halas_Celanovic-eps-converted-to.pdf>] [8 <./Planar.png>] [9] [10]
-<FDTD_Modeling.png, id=388, 1168.365pt x 449.68pt>
+[13] [14] [15] [16] <FDTD_Modeling.png, id=421, 1168.365pt x 449.68pt>
 File: FDTD_Modeling.png Graphic file (type png)
- <use FDTD_Modeling.png>
-Package pdftex.def Info: FDTD_Modeling.png used on input line 464.
-(pdftex.def)             Requested size: 378.0pt x 145.48555pt.
 
-[11 <./FDTD_Modeling.png>] [12] [13]
+<use FDTD_Modeling.png>
+Package pdftex.def Info: FDTD_Modeling.png used on input line 469.
+(pdftex.def)             Requested size: 345.0pt x 132.7848pt.
+ [17] [18] [19] [20] [21]
 Package epstopdf Info: Source file: <gfig12_comb.eps>
 (epstopdf)                    date: 2016-02-16 17:25:02
 (epstopdf)                    size: 337081 bytes
@@ -1020,17 +773,17 @@ Package epstopdf Info: Source file: <gfig12_comb.eps>
 (epstopdf)                    size: 96186 bytes
 (epstopdf)             Command: <repstopdf --outfile=gfig12_comb-eps-converted-
 to.pdf gfig12_comb.eps>
-(epstopdf)             \includegraphics on input line 599.
+(epstopdf)             \includegraphics on input line 604.
 Package epstopdf Info: Output file is already uptodate.
 
-<gfig12_comb-eps-converted-to.pdf, id=460, 1091.07625pt x 470.75874pt>
+<gfig12_comb-eps-converted-to.pdf, id=502, 1091.07625pt x 470.75874pt>
 File: gfig12_comb-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gfig12_comb-eps-converted-to.pdf>
-Package pdftex.def Info: gfig12_comb-eps-converted-to.pdf used on input line 59
-9.
-(pdftex.def)             Requested size: 378.0pt x 163.09435pt.
- [14 <./gfig12_comb-eps-converted-to.pdf>]
+Package pdftex.def Info: gfig12_comb-eps-converted-to.pdf used on input line 60
+4.
+(pdftex.def)             Requested size: 345.0pt x 148.85007pt.
+ [22]
 Package epstopdf Info: Source file: <gfig45_comb.eps>
 (epstopdf)                    date: 2016-02-16 17:25:02
 (epstopdf)                    size: 3685032 bytes
@@ -1039,84 +792,112 @@ Package epstopdf Info: Source file: <gfig45_comb.eps>
 (epstopdf)                    size: 368590 bytes
 (epstopdf)             Command: <repstopdf --outfile=gfig45_comb-eps-converted-
 to.pdf gfig45_comb.eps>
-(epstopdf)             \includegraphics on input line 627.
+(epstopdf)             \includegraphics on input line 632.
 Package epstopdf Info: Output file is already uptodate.
- <gfig45_comb-eps-converted-to.pdf, id=485, 552.0625pt x 273.02pt>
+
+<gfig45_comb-eps-converted-to.pdf, id=522, 552.0625pt x 273.02pt>
 File: gfig45_comb-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gfig45_comb-eps-converted-to.pdf>
-Package pdftex.def Info: gfig45_comb-eps-converted-to.pdf used on input line 62
-7.
-(pdftex.def)             Requested size: 245.6977pt x 121.50809pt.
- [15 <./gfig45_comb-eps-converted-to.pdf>]
-LaTeX Font Info:    Try loading font information for OML+ptm on input line 638.
+Package pdftex.def Info: gfig45_comb-eps-converted-to.pdf used on input line 63
+2.
+(pdftex.def)             Requested size: 224.2479pt x 110.9016pt.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 643.
 
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlptm.fd
-File: omlptm.fd 
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 638.
- [16]
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 643.
+ [23] [24] [25]
+[26]
+Overfull \hbox (11.96735pt too wide) in paragraph at lines 675--693
+ [] 
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[27] [28] [29] [30]
+Overfull \hbox (55.21753pt too wide) in paragraph at lines 763--794
+ [] 
+ []
 
-[17] [18] [19] [20] (./submission.bbl [21]
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
- [22]
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
- [23]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 393.
+[31] [32] (./submission.bbl [33] [34] [35]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
 
+Underfull \hbox (badness 1242) in paragraph at lines 141--143
+[]\OT1/cmr/m/n/10 M. C. Gupta, D. E. Carl-son, Laser pro-cess-ing for re-new-ab
+le en-
+ []
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+[36] [37]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [38] [39] [40]
+Underfull \hbox (badness 2221) in paragraph at lines 351--354
+[]\OT1/cmr/m/n/10 M. Shimizu, A. Ko-hiyama, H. Y. Yugami, High-efficiency solar
+-
+ []
+
+[41] [42] [43]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [44] [45]
+Underfull \hbox (badness 1789) in paragraph at lines 585--588
+\OT1/cmr/m/n/10 Metamaterial-based in-te-grated plas-monic ab-sorber/emitter fo
+r so-lar
+ []
+
 )
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
- [24])
 
 Package natbib Warning: There were undefined citations.
 
 runsystem(rm -- submission.oldaux)...disabled (restricted).
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 827.
-[25]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 827.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 832.
+[46] [47 <./Planar.png>] [48 <./FDTD_Modeling.png> <./gfig12_comb-eps-converted
+-to.pdf>] [49 <./gfig45_comb-eps-converted-to.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 832.
  (./submission.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 827.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 827.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 832.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 832.
 Package rerunfilecheck Info: File `submission.out' has not changed.
 (rerunfilecheck)             Checksum: E9204B10E15A5F169A0E6432EEF66826;1923.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 827.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 832.
  ) 
 Here is how much of TeX's memory you used:
- 15884 strings out of 495025
- 262552 string characters out of 6181514
- 338420 words of memory out of 5000000
- 18532 multiletter control sequences out of 15000+600000
- 50418 words of font info for 113 fonts, out of 8000000 for 9000
- 74 hyphenation exceptions out of 8191
- 59i,10n,94p,10370b,884s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
-uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
-s/utmri8a.pfb>
-Output written on submission.pdf (25 pages, 1434622 bytes).
+ 14800 strings out of 495025
+ 246751 string characters out of 6181514
+ 329884 words of memory out of 5000000
+ 17536 multiletter control sequences out of 15000+600000
+ 15199 words of font info for 56 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 59i,10n,94p,10370b,918s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmtt10.pfb>
+Output written on submission.pdf (49 pages, 1576564 bytes).
 PDF statistics:
- 778 PDF objects out of 1000 (max. 8388607)
- 702 compressed objects within 8 object streams
- 190 named destinations out of 1000 (max. 500000)
+ 918 PDF objects out of 1000 (max. 8388607)
+ 809 compressed objects within 9 object streams
+ 214 named destinations out of 1000 (max. 500000)
  209 words of extra memory for PDF output out of 10000 (max. 10000000)
 
