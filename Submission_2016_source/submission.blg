@@ -3,48 +3,46 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: submission.aux
 The style file: elsarticle-num.bst
 Database file #1: submission.bib
-Warning--I didn't find a database entry for "FMS_ACSPhoton_2014"
-Warning--I didn't find a database entry for "CWH_JQSRT_2005"
 Warning--empty pages in g7
-You've used 125 entries,
+You've used 127 entries,
             2937 wiz_defined-function locations,
-            1377 strings with 25927 characters,
-and the built_in function-call counts, 35544 in all, are:
-= -- 3218
-> -- 1448
+            1385 strings with 26223 characters,
+and the built_in function-call counts, 36163 in all, are:
+= -- 3274
+> -- 1477
 < -- 4
-+ -- 565
-- -- 440
-* -- 2498
-:= -- 5116
-add.period$ -- 125
-call.type$ -- 125
-change.case$ -- 120
++ -- 576
+- -- 449
+* -- 2546
+:= -- 5207
+add.period$ -- 127
+call.type$ -- 127
+change.case$ -- 122
 chr.to.int$ -- 9
-cite$ -- 126
-duplicate$ -- 985
-empty$ -- 3829
-format.name$ -- 549
-if$ -- 9123
+cite$ -- 128
+duplicate$ -- 1001
+empty$ -- 3891
+format.name$ -- 560
+if$ -- 9279
 int.to.chr$ -- 0
-int.to.str$ -- 125
-missing$ -- 133
-newline$ -- 384
-num.names$ -- 125
-pop$ -- 712
+int.to.str$ -- 127
+missing$ -- 135
+newline$ -- 390
+num.names$ -- 127
+pop$ -- 722
 preamble$ -- 2
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2147
+skip$ -- 2181
 stack$ -- 0
-substring$ -- 2160
-swap$ -- 112
+substring$ -- 2202
+swap$ -- 114
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 236
-width$ -- 128
-write$ -- 998
-(There were 3 warnings)
+while$ -- 240
+width$ -- 130
+write$ -- 1014
+(There was 1 warning)
