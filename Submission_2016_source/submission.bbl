@@ -63,6 +63,11 @@ C.~G. Granqvist, Spectrally selective coatings for energy efficiency and solar
 S.~Collin, Nanostructure arrays in free space: optical properties and
   applications, Rep. Prog. Phys. 77 (2014) 126402.
 
+\bibitem{SteadyStateAnalysis}
+A.~Datas, D.~L. Chbb, A.~Veeraragavan, Steady state analysis of a storage
+  integrated solar thermophotovoltaic (sistpv) system, Sol. Energy 96 (2013)
+  33--45.
+
 \bibitem{Night_time_Performance}
 A.~Veeraragavan, L.~Montgomery, A.~Datas, Night time performance of a storage
   intergrated solar thermophotovoltaic (sistpv) system, Sol. Energy 108 (2014)
@@ -157,6 +162,11 @@ V.~V. Iyengar, B.~K. Nayak, M.~C. Gupta, Ultralow reflectance metal surfaces by
 \bibitem{L_AIP_2007}
 A.~Luque, Solar thermophotovoltaics: Combining solar thermal and photovoltaics,
   AIP Conf. Proc. 890~(1) (2007) 3--16.
+
+\bibitem{TheoreticalEfficiency}
+J.~L. Duomarco, R.~Kaplow, Theoretical estimations of the efficiency of
+  thermophotovoltaic systems using high-intensity silicon solar cells, Sol.
+  Energy 32 (1984) 33--40.
 
 \bibitem{RKR_RenEnRev_2013}
 V.~S. Reddy, S.~C. Kaushik, K.~R. Ranjan, S.~K. Tyagi, State-of-the-art of
@@ -441,6 +451,10 @@ M.~Clerc, Particle Swarm Optimization, Wiley, 2008.
 R.~L. Miller, Z.~Xie, S.~Leyffer, M.~J. Davis, S.~K. Gray, Surrogate-based
   modeling of the optical response of metallic nanostructures, J. Phys. Chem. C
   114 (2010) 20741--20748.
+
+\bibitem{NearFieldConcentrated}
+M.~Elzouka, S.~Ndao, Towards a near-field concentrated solar thermophotovoltaic
+  microsystem: Part i - modeling, Sol. Energy 141 (2017) 323--333.
 
 \bibitem{BDB_SciRep_2015}
 M.~P. Bernardi, O.~Dupr\'e, E.~Blandre, P.-O. Chapuis, R.~Vaillon,

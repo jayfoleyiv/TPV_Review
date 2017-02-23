@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.10.20)  23 FEB 2017 17:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.10.20)  23 FEB 2017 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -675,7 +675,7 @@ pdf gfig_bbs.eps>
 (epstopdf)             \includegraphics on input line 106.
 Package epstopdf Info: Output file is already uptodate.
 
-<gfig_bbs-eps-converted-to.pdf, id=141, 699.61375pt x 213.79875pt>
+<gfig_bbs-eps-converted-to.pdf, id=143, 699.61375pt x 213.79875pt>
 File: gfig_bbs-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gfig_bbs-eps-converted-to.pdf>
@@ -692,7 +692,7 @@ o.pdf gfig_surfs.eps>
 (epstopdf)             \includegraphics on input line 111.
 Package epstopdf Info: Output file is already uptodate.
 
-<gfig_surfs-eps-converted-to.pdf, id=142, 564.1075pt x 47.17625pt>
+<gfig_surfs-eps-converted-to.pdf, id=144, 564.1075pt x 47.17625pt>
 File: gfig_surfs-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gfig_surfs-eps-converted-to.pdf>
@@ -711,7 +711,7 @@ ed-to.pdf ideal_STPV_eff.eps>
 (epstopdf)             \includegraphics on input line 154.
 Package epstopdf Info: Output file is already uptodate.
 
-<ideal_STPV_eff-eps-converted-to.pdf, id=191, 420.57124pt x 316.18124pt>
+<ideal_STPV_eff-eps-converted-to.pdf, id=194, 420.57124pt x 316.18124pt>
 File: ideal_STPV_eff-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ideal_STPV_eff-eps-converted-to.pdf>
@@ -730,7 +730,7 @@ ted-to.pdf Halas_Celanovic.eps>
 (epstopdf)             \includegraphics on input line 294.
 Package epstopdf Info: Output file is already uptodate.
 
-<Halas_Celanovic-eps-converted-to.pdf, id=297, 807.015pt x 328.22626pt>
+<Halas_Celanovic-eps-converted-to.pdf, id=301, 807.015pt x 328.22626pt>
 File: Halas_Celanovic-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Halas_Celanovic-eps-converted-to.pdf>
@@ -738,7 +738,7 @@ Package pdftex.def Info: Halas_Celanovic-eps-converted-to.pdf used on input lin
 e 294.
 (pdftex.def)             Requested size: 345.0pt x 140.31818pt.
 
-<Planar.png, id=304, 1084.05pt x 844.15375pt>
+<Planar.png, id=308, 1084.05pt x 844.15375pt>
 File: Planar.png Graphic file (type png)
  <use Planar.png>
 Package pdftex.def Info: Planar.png used on input line 316.
@@ -749,7 +749,7 @@ Overfull \hbox (3.20323pt too wide) in paragraph at lines 377--377
 -pli-ca-tions us-ing Trans-
  []
 
-[14] [15] [16] [17] <FDTD_Modeling.png, id=433, 1168.365pt x 449.68pt>
+[14] [15] [16] [17] <FDTD_Modeling.png, id=437, 1168.365pt x 449.68pt>
 File: FDTD_Modeling.png Graphic file (type png)
 
 <use FDTD_Modeling.png>
@@ -767,7 +767,7 @@ to.pdf gfig12_comb.eps>
 (epstopdf)             \includegraphics on input line 604.
 Package epstopdf Info: Output file is already uptodate.
 
-<gfig12_comb-eps-converted-to.pdf, id=514, 1091.07625pt x 470.75874pt>
+<gfig12_comb-eps-converted-to.pdf, id=519, 1091.07625pt x 470.75874pt>
 File: gfig12_comb-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gfig12_comb-eps-converted-to.pdf>
@@ -785,7 +785,7 @@ Package epstopdf Info: Source file: <gfig45_comb.eps>
 to.pdf gfig45_comb.eps>
 (epstopdf)             \includegraphics on input line 632.
 Package epstopdf Info: Output file is already uptodate.
- <gfig45_comb-eps-converted-to.pdf, id=543, 552.0625pt x 273.02pt>
+ <gfig45_comb-eps-converted-to.pdf, id=549, 552.0625pt x 273.02pt>
 File: gfig45_comb-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gfig45_comb-eps-converted-to.pdf>
@@ -815,7 +815,7 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-Underfull \hbox (badness 1242) in paragraph at lines 150--152
+Underfull \hbox (badness 1242) in paragraph at lines 155--157
 []\OT1/cmr/m/n/10 M. C. Gupta, D. E. Carl-son, Laser pro-cess-ing for re-new-ab
 le en-
  []
@@ -825,7 +825,7 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
  [41] [42] [43]
-Underfull \hbox (badness 2221) in paragraph at lines 369--372
+Underfull \hbox (badness 2221) in paragraph at lines 379--382
 []\OT1/cmr/m/n/10 M. Shimizu, A. Ko-hiyama, H. Y. Yugami, High-efficiency solar
 -
  []
@@ -835,16 +835,16 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
  [47] [48]
-Underfull \hbox (badness 1789) in paragraph at lines 603--606
+Underfull \hbox (badness 1789) in paragraph at lines 617--620
 \OT1/cmr/m/n/10 Metamaterial-based in-te-grated plas-monic ab-sorber/emitter fo
 r so-lar
  []
 
-)
+[49])
 runsystem(rm -- submission.oldaux)...disabled (restricted).
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 832.
- [49]
+ [50]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 832.
  (./submission.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 832.
@@ -854,13 +854,13 @@ Package rerunfilecheck Info: File `submission.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 832.
  ) 
 Here is how much of TeX's memory you used:
- 14814 strings out of 495025
- 247099 string characters out of 6181514
- 328954 words of memory out of 5000000
- 17546 multiletter control sequences out of 15000+600000
+ 14827 strings out of 495025
+ 247437 string characters out of 6181514
+ 329005 words of memory out of 5000000
+ 17555 multiletter control sequences out of 15000+600000
  15199 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 59i,10n,94p,10370b,922s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,10n,94p,10370b,962s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texli
@@ -879,10 +879,10 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmtt10.pfb>
-Output written on submission.pdf (49 pages, 1576827 bytes).
+Output written on submission.pdf (50 pages, 1577963 bytes).
 PDF statistics:
- 930 PDF objects out of 1000 (max. 8388607)
- 821 compressed objects within 9 object streams
- 218 named destinations out of 1000 (max. 500000)
+ 940 PDF objects out of 1000 (max. 8388607)
+ 830 compressed objects within 9 object streams
+ 222 named destinations out of 1000 (max. 500000)
  209 words of extra memory for PDF output out of 10000 (max. 10000000)
 
