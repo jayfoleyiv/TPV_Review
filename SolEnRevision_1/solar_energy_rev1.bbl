@@ -77,6 +77,16 @@ A.~Veeraragavan, L.~Montgomery, A.~Datas, Night time performance of a storage
 W.~Durisch, B.~Bitnar, F.~von Roth, G.~Palfinger, Small thermophotovoltaic
   prototype systems, Sol. Energy 75 (2003) 11--15.
 
+\bibitem{RKR_RenEnRev_2013}
+V.~S. Reddy, S.~C. Kaushik, K.~R. Ranjan, S.~K. Tyagi, State-of-the-art of
+  solar thermal power plants-a review, Renew. Sust. Energ. Rev. 27 (2013)
+  258--273.
+
+\bibitem{nnnNature}
+D.~M. Blerman, A.~J. Lenert, W.~R. Chan, B.~Bhatka, I.~Celanovic, M.~Soljacic,
+  E.~N. Wang, Enhanced photovoltaic energy conversion using thermally based
+  spectral shaping, Nat. Enrgy. 1 (2016) 1--7.
+
 \bibitem{g11}
 V.~Rinnerbauer, A.~Lenert, D.~M. Bierman, Y.~X. Yeng, W.~R. Chan, R.~D. Geil,
   J.~J. Senkevich\, J.~D. Joannopoulos, E.~N. Wang, M.~Soljacic, I.~Cleanovic,
@@ -168,10 +178,13 @@ J.~L. Duomarco, R.~Kaplow, Theoretical estimations of the efficiency of
   thermophotovoltaic systems using high-intensity silicon solar cells, Sol.
   Energy 32 (1984) 33--40.
 
-\bibitem{RKR_RenEnRev_2013}
-V.~S. Reddy, S.~C. Kaushik, K.~R. Ranjan, S.~K. Tyagi, State-of-the-art of
-  solar thermal power plants-a review, Renew. Sust. Energ. Rev. 27 (2013)
-  258--273.
+\bibitem{combineLuque}
+A.~Luque, Solar thermophotovoltaics: combining solar thermal and photovoltaics,
+  AIP Conference Proceedings 3 (2007) 3--16.
+
+\bibitem{concentrationGleckman}
+P.~Gleckman, J.~O'Gallagher, R.~Winston, Concentration of sunlight to
+  solar-surface levels using non-imaging optics, Nature 339 (1989) 198--200.
 
 \bibitem{MS_EnConvMan_2012}
 R.~K. McGovern, W.~J. Smith, Optimal concentration and temperatures of solar
@@ -189,6 +202,26 @@ Y.~Xuan, X.~Chen, Y.~Han, Design and analysis of thermophotovoltaic systems,
 K.~A. Arpin, M.~D. Losego, P.~V. Braun, {Electrodeposited 3D tungsten photonic
   crystals with enhanced thermal stability}, Chemistry of Materials 23 (2011)
   4783--4788.
+
+\bibitem{Palik}
+E.~D. Palik, Handbook of optical constants of solids, Academic Press, 1998.
+
+\bibitem{Chaud}
+T.~K. Chaudhuri, A solar thermophotovoltaic converter using pbs photovoltaic
+  cells, Int. J. Energy Res 16 (1992) 481--487.
+
+\bibitem{W_Melting}
+A.~Azens, M.~Kitenbergs, U.~Kanders, Evaporation of tungsten oxides: A
+  mass-spectrometric study of vapour contents, Vacuum 46 (1995) 745--747.
+
+\bibitem{Lightbulb}
+D.~MacIsaac, G.~Kanner, G.~Anderson, Basic physics of the incandescent lamp
+  (lightbulb), Phys. Teach. 37 (1999) 520.
+
+\bibitem{real_efficient}
+M.~Shimizu, A.~Kohiyama, H.~Yugami, {High-efficiency solar thermophotovoltaic
+  system equipped with a monolithic planar selective absorber/emitter}, J.
+  Photon. Energy 5 (2015) 053099.
 
 \bibitem{me1}
 C.~Ungaro, S.~K. Gray, M.~C. Gupta, Black tungsten for solar power generation,
@@ -484,6 +517,19 @@ C.~Ungaro, A.~Shah, I.~Kravchenko, D.~K. Hensley, S.~K. Gray, M.~C. Gupta,
   Optical and infrared properties of glancing angle deposited nanostructured
   tungsten films, Opt. Lett. 40 (2015) 506--509.
 
+\bibitem{ssolar}
+{Schott Solar CSP GmbH},
+  \url{http://www.schott.com/d/csp/2ad9cb93-5b86-4a51-aead-a49b4e869ef8/1.0/schott_ptr70_4th_generation_datasheet.pdf}.
+
+\bibitem{ying}
+Y.~You, E.~J. Hu, A medium-temperature solar thermal power system and its
+  efficiency optimisation, Appl. Therm. Eng. 22 (2002) 357--364.
+
+\bibitem{high_temp_review_ST}
+C.~K. Ho, B.~D. Iverson, Review of high-temperature central receiver designs
+  for concentrating solar power, Renew. Sustainable Energy Rev. 29 (2014)
+  835--846.
+
 \bibitem{A1}
 N.~Selvakumar, H.~Barshilia, Review of physical vapor deposited (pvd)
   spectrally selective coatings for mid- and high-temperature solar thermal
@@ -566,6 +612,14 @@ A.~Lasagni, M.~Nejati, R.~Clasen, F.~Mucklich, Periodical surface structuring
 M.~Saidi, R.~H. Abardeh, Air pressure dependence of natural-convection heat
   transfer, Proceedings of the World Congress on Engineering 2010 II.
 
+\bibitem{scranton_from_gupta}
+G.~Scranton, T.~P. Xiao, V.~Ganapati, J.~Holzrichter, P.~F. Peterson,
+  E.~Yablonovitch, Highly efficient thermophotovoltaics enabled by photon
+  re-use, in: 2016 IEEE 43rd Photovoltaic Specialists Conference (PVSC), 2016,
+  pp. 1026--1029.
+\newblock \href {http://dx.doi.org/10.1109/PVSC.2016.7749766}
+  {\path{doi:10.1109/PVSC.2016.7749766}}.
+
 \bibitem{SQ}
 W.~Shockley, H.~J. Queisser, Detailed balance limit of efficiency of p-n
   junction solar cells, J. Appl. Phys 32 (1961) 510--519.
@@ -580,18 +634,10 @@ A.~Lenert, D.~M. Bierman, Y.~Nam, W.~R. Chan, I.~Celanovic, M.~Soljacic, E.~N.
   Wang, A nanophotonic solar thermophotovoltaic device, Nat. Nanotechnol. 9
   (2014) 126--130.
 
-\bibitem{nnnNature}
-D.~M. Blerman, A.~J. Lenert, W.~R. Chan, B.~Bhatka, I.~Celanovic, M.~Soljacic,
-  E.~N. Wang, Enhanced photovoltaic energy conversion using thermally based
-  spectral shaping, Nat. Enrgy. 1 (2016) 1--7.
-
 \bibitem{exp_russia}
 A.~S. Vlasov, V.~P. Khvostikov, O.~A. Khvostikova, P.~Y. Gazaryan, S.~V.
   Sorokina, V.~M. Andreev, {TPV systems with solar powered tungsten emitters},
   AIP Conference Proceedings 890 (2007) 327--334.
-
-\bibitem{palik}
-E.~D. Palik, Handbook of optical constants of solids, Academic Press, 1998.
 
 \bibitem{exp_tokyo}
 H.~Yugami, H.~Sai, K.~Nakamura, H.~Nakagawa, H.~Ohtsubo, Solar

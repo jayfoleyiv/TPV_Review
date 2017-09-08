@@ -4,45 +4,45 @@ The top-level auxiliary file: solar_energy_rev1.aux
 The style file: elsarticle-num.bst
 Database file #1: solar_energy_rev1.bib
 Warning--empty pages in g7
-You've used 132 entries,
+You've used 142 entries,
             2937 wiz_defined-function locations,
-            1416 strings with 27098 characters,
-and the built_in function-call counts, 37546 in all, are:
-= -- 3408
-> -- 1524
-< -- 4
-+ -- 595
-- -- 463
-* -- 2643
-:= -- 5403
-add.period$ -- 132
-call.type$ -- 132
-change.case$ -- 127
+            1478 strings with 28694 characters,
+and the built_in function-call counts, 40394 in all, are:
+= -- 3679
+> -- 1609
+< -- 5
++ -- 630
+- -- 488
+* -- 2826
+:= -- 5787
+add.period$ -- 143
+call.type$ -- 142
+change.case$ -- 136
 chr.to.int$ -- 9
-cite$ -- 133
-duplicate$ -- 1041
-empty$ -- 4040
-format.name$ -- 579
-if$ -- 9640
+cite$ -- 143
+duplicate$ -- 1131
+empty$ -- 4365
+format.name$ -- 611
+if$ -- 10395
 int.to.chr$ -- 0
-int.to.str$ -- 132
-missing$ -- 140
-newline$ -- 405
-num.names$ -- 132
-pop$ -- 747
+int.to.str$ -- 142
+missing$ -- 149
+newline$ -- 436
+num.names$ -- 142
+pop$ -- 802
 preamble$ -- 2
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2266
+skip$ -- 2460
 stack$ -- 0
-substring$ -- 2289
-swap$ -- 119
-text.length$ -- 1
+substring$ -- 2469
+swap$ -- 140
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 250
-width$ -- 135
-write$ -- 1054
+while$ -- 270
+width$ -- 145
+write$ -- 1135
 (There was 1 warning)

@@ -88,21 +88,18 @@ Optical design and fabrication \sep Optical Devices \sep Optics at surfaces \sep
                
 
 \section{Introduction}
-Recently, there has been strong research activity in solar thermal (ST) \cite{g1,g2}, solar thermophotovoltaic (STPV) \cite{g3,g4,g5,nnn1}, and thermophotovoltaic (TPV) \cite{g6,g7} \textcolor{red}{systems for converting solar and heat energy to electricity.  While hybrid PV and ST systems which convert some or all incident energy to heat for direct use (such as in a hot water heater) and in photovoltaic-thermal collectors have also seen significant advances, this review article focuses only on system which output electrical energy.  Additionally, this article focuses on high temperature STPV and ST systems due to their potentially high efficiency.}   There is strong potential for growth in these areas, especially through the use of novel nanostructured surfaces to control light absorption and emission from surfaces and to achieve high efficiency. This spectral light control can be achieved by nanostructuring of surfaces, which can strongly modify their optical properties \cite{g8,g9,RF_OptExp_2009}. Recently, significant progress has been made in the modeling and fabrication of nanostructures to control optical absorption and emission properties of surfaces. Nanostructured surfaces, for example, can be designed to be significantly more absorbing than their flat counterparts.  Similarly, surfaces can be designed to emit infrared radiation in a very narrow spectral range, providing spectrally selective surfaces~\cite{G_PS_1985, C_RPP_2014}. \textcolor{red}{ A schematic of 
-an STPV device with a broad solar absorber in thermal contact with a selective emitter
-is shown in Figure \ref{gfig_bbs}{\bf A}.  Figure \ref{gfig_bbs}{\bf B} and {\bf C}} show the change in emission spectra from a blackbody emitter to a selective emitter using optical nanostructures.Some typical nanostructures are depicted schematically in Fig. \ref{gfig_surfs}.  
+Recently, there has been strong research activity in solar thermal (ST) \cite{g1,g2}, solar thermophotovoltaic (STPV) \cite{g3,g4,g5,nnn1}, and thermophotovoltaic (TPV) \cite{g6,g7} \textcolor{red}{systems for converting solar and heat energy to electricity.  While hybrid PV and ST systems which convert some or all incident energy to heat for direct use (such as in a hot water heater) and in photovoltaic-thermal collectors have also seen significant advances, this review article focuses only on system which output electrical energy.  Additionally, this article focuses on high temperature STPV and ST systems due to their potentially high efficiency.}   There is strong potential for growth in these areas, especially through the use of novel nanostructured surfaces to control light absorption and emission from surfaces and to achieve high efficiency. This spectral light control can be achieved by nanostructuring of surfaces, which can strongly modify their optical properties \cite{g8,g9,RF_OptExp_2009}. Recently, significant progress has been made in the modeling and fabrication of nanostructures to control optical absorption and emission properties of surfaces. Nanostructured surfaces, for example, can be designed to be significantly more absorbing than their flat counterparts.  Similarly, surfaces can be designed to emit infrared radiation in a very narrow spectral range, providing spectrally selective surfaces~\cite{G_PS_1985, C_RPP_2014}.  Figure \ref{gfig_bbs} shows the change in emission spectra from a blackbody emitter to a selective emitter using optical nanostructures.Some typical nanostructures are depicted schematically in Fig. \ref{gfig_surfs}.  
 
 STPV, ST, and TPV systems all share common surfaces but operate under different conditions.  ST and STPV systems offer an alternative to PV power generation in alternative energy systems.  Since both are heat engines, they do not adhere to the Shockley-Queisser limit and can theoretically exhibit extremely high efficiencies.  \textcolor{red}{Additionally, since both ST and STPV systems rely on elements heated to high temperatures via concentrated solar energy, they are easy to modify for thermal storage of energy~\cite{SteadyStateAnalysis,Night_time_Performance}.  This would allow them to operate into the night.  An advantage of ST systems over STPV systems is that ST systems do not require the use of PV cells.  The PV cells in STPV systems are expensive and can limit overall system size.  Conversely, an advantage of STPV systems over ST systems is that STPV systems have no thermal fluid or moving parts.  This leads to them being more stable and compact solutions.  Overall, ST tends to lend itself to large, immobile power installations while STPV is better suited for small applications.  TPV systems operate on the same principle as STPV systems, but rely on an external heat source instead of solar energy~\cite{Prototype_TPV}.  This allows them to be used in energy reclamation systems.}
 
-\textcolor{red}{While both ST and STPV systems are capable of exceeding the Shockley-Queisser limit in theory, only ST systems have yet been realized with high real-world efficiency~\cite{RF_OptExp_2009, RKR_RenEnRev_2013, nnnNature} .  This is due primarily to the challenges related to the extremely high temperature operation of STPV systems;
+\textcolor{red}{While both ST and STPV systems are capable of exceeding the Shockley-Quessier limit in theory, only ST systems have yet been realized with high real-world efficiency~\cite{RF_OptExp_2009, RKR_RenEnRev_2013, nnnNature} .  This is due primarily to the challenges related to the extremely high temperature operation of STPV systems;
 it is the view of the authors that this presents exciting opportunities for researchers in materials science, 
 nanophotonics, and engineering to devise strategies for increasing the temperature stability of STPV components, 
 and for increasing the performance of STPV components operating at lower temperature.  STPV systems have many advantages, such as those listed in the previous paragraph, that make them attractive for further development.}
 
 \begin{figure}[ht!]
-	\includegraphics[width=1\textwidth]{gfig_bbs_schem.png}
-	\caption{\label{gfig_bbs} {\bf A} Schematic of STPV system capable of
-reshaping the solar spectrum.  {\bf B} Spectral emission of a blackbody vs. {\bf C} a selective emitter.  Note that the scales on each graph are in different arbitrary units; the graph is intended to show the relative narrowness of the spectrum using the selective emitter.}
+	\includegraphics[width=1\textwidth]{gfig_bbs}
+	\caption{\label{gfig_bbs} Spectral emission of a blackbody vs. a selective emitter.  Note that the scales on each graph are in different arbitrary units; the graph is intended to show the relative narrowness of the spectrum using the selective emitter.}
 \end{figure}
 
 \begin{figure}[ht!]
@@ -143,13 +140,13 @@ Figure \ref{gfig_surfs} shows different kinds of nanostructures used to create s
 Melting point depression and thermal mismatching between layers makes temperature stability a major concern for spectrally selective surfaces.  This issue is solved primarily through material selection and the use of protective coatings on nanostructured materials \cite{paper1_ref5}.  Smaller nanostructures and thinner layers can increase this effect, resulting in a limited design space for some nanomaterials.  \textcolor{red}{Tungsten is a commonly used material for high temperature systems due to its intrinsic thermal stability~\cite{Palik,Chaud}.  However, 
 care is required when using tungsten at high temperatures as it is known to oxidize readily, and several tungsten oxides are known to melt, 
 or even evaporate, at low temperatures~\cite{W_Melting}. There are several practical strategies which are effective in 
-mitigating this effect.  One approach is to introduce an inert gas is done in the light bulb industry, where only a 
+mitigating this effect.  One approach is to introduce an inert as is done in the lightbulb industry, where only a 
 partial vacuum is required to eliminate oxygen and water and argon gas is used as the fill gas~\cite{Lightbulb}. 
 STPV systems need to be operated in a partial vacuum to reduce convective losses regardless, so this particular strategy does not
 represent an additional cost for these systems. 
 Additionally, dielectric coatings on tungsten may be used to protect tungsten from oxidation~\cite{paper1_ref5}; 
 in fact, the use of such coatings may be used to improves the emissive properties of tungsten as 
-was the case for several high-efficiency emitter structures reported in table 2~\cite{paper1_ref5, real_efficient}.}
+was the case for several high-efficiency emitter structures reported in table 2.~\cite{paper1_ref5, real_efficient}}
 
 The type of nanostructure used in a system can have a large impact on its ease of fabrication, spectral selectivity, and temperature stability.  The use of random elements in nanostructures eases fabrication tolerance requirements and can improve selectivity, but can be difficult to design for or simulate properly \cite{me1}.  The presence of some smaller--period nanostructures can lead to lower thermal stability in random nanostructures as well. 
 
@@ -324,7 +321,7 @@ $t = E_L^+/E_1^+ =  1/M_{1,1}$, respectively.  The reflection can then be calcul
 $T= |t|^2 \: n_L \: {\rm cos}({\rm Re}(\theta_L)))/(n_1 \: {\rm cos}(\theta_1))$, where $n_i$  and $\theta_i$ denote the refractive index of the material of layer $i$
 and the incident/refraction angle in layer $i$, respectively.  For computing the Fresnel equations, 
 the field amplitude $E_L^-$ is set to zero and the amplitude $E_1^+$ is set to 1 by convention.   
-The absorption can simply be computed as $A= 1-T-R$.  An additional requisite assumption is that the semi-infinite bounding 
+The absorption can simply be computed as $A= 1-T-R$.  An additional requiste assumption is that the semi-infinite bounding 
 media (layer 1 and layer L) have real refractive indices.  When this is the case, $\theta_L$ will be a real angle to satisfy conditions
 required by Snell's law for absorbing media~\cite{FMS_ACSPhoton_2014,CWH_JQSRT_2005} until the transmitted wave becomes evanescent, as is the case for total internal reflection
 (when ${\rm Re}(\theta_L)=90^{\circ}$).  In this case, the transmission is necessarily zero, so the interpretation of the transmission ($T$), which must be a real number between 0 and 1, is preserved in the Transfer Matrix Method for absorbing intermediate materials bounded by semi-infinite dielectric layers.   That is, the Transfer Matrix Method allows all 
@@ -351,7 +348,7 @@ spectrally-selective emitter
 structure.  The radiation wavelength of the emitter should be well matched to a PV cell bandgap so that its thermal emission can be efficiently converted
 to electrical current.  TPV systems can harvest thermal energy as waste heat from engines or other sources.  An STPV system is simply 
 a TPV system that harvests thermal energy from solar radiation, and involves a good solar absorber as one of its components.
-The design of both absorber and emitter structures has been the focus of considerable theory and modeling effort.
+The design of both absorbers and emitter structures has been the focus of considerable theory and modeling effort.
 Figure~\ref{Fan} illustrates several optimized planar emitters that were designed using Transfer Matrix Methods~\cite{BN_JApplPhys_2005, LZ_JApplPhys_2006, RF_OptExp_2009}.
 
 Despite their simplicity, multi-layer planar structures can support a rich number of interesting and controllable optical phenomena
@@ -570,7 +567,7 @@ A high power laser beam focused to sub-micron dimensions allows direct
 ablation of surface material,  as shown in Figure \ref{gfig12_comb}(a), to form periodic or non-periodic structures.   Alternatively, selective exposure of a 
 photoresist can create feature sizes of about 0.5 microns~\cite{g29}. 
 \textcolor{red}{Though these fabrication techniques are limited to structure sizes on 
-the order of 1 $cm^2$, we note that in solar thermophotovoltaics
+the order of XX $cm^2$, we note that in solar thermophotovoltaics
 the incident sun light is highly concentrated with concentration factor of 
 many 1000 times, so the focused light beam size is relatively small (less 
 than an inch in diameter).  Therefore, STPV structures with relatively small
@@ -649,7 +646,7 @@ Sub-wavelength roughness on metallic substrates can also increase solar absorban
 Typical STPV systems consist of an absorbing/emitting structure that is held under vacuum to reduce convective losses and increase thermal stability~\cite{global_opt, convection}.  Then, sunlight is focused on the absorbing surface of the structure, where it is absorbed and converted into thermal energy.  This results in the absorbing/emitting structure becoming very hot, with temperatures up to 1750 K common in these systems.  As the system temperature rises, it begins to emit a large amount of thermal radiation.  The portion of thermal energy that is emitted by the emitting surface can then be collected by a PV cell and converted into electrical energy.  An additional advantage of STPV systems is their ability to store absorbed energy as heat, which is more efficient than battery storage with traditional PV cells.  STPV technology can also be easily adapted to thermophotovoltaic (TPV) systems, which operate similarly but use a burning fuel or waste heat as a thermal source instead of the sun.  \textcolor{red}{For example, there }
 
 
-\textcolor{red}{By transforming the incoming solar radiation from a broad-band source to a more narrow-band one, STPV systems can operate at efficiencies exceeding the Shockley-Queisser limit of 29\% for silicon PV cells operating under diffuse radiation~\cite{scranton_from_gupta}.  This is due to the fact that the major factors that drive the Shockley-Queisser limit are losses due to below-bandgap radiation and thermalization, which are both dependent on the spectrum of light illuminating the PV cell~\cite{SQ}.  By efficiently altering the spectrum of light reaching the PV cell, the system efficiency can be increased.  In fact, the upper {\it theoretical} limit for STPV system efficiency is 85.4\%~\cite{A2}.  While reference \cite{RF_OptExp_2009} and \cite{global_opt} used many idealities, they clearly show that STPV systems are capable of having efficiencies above the Shockley-Queisser limit for single junction PV cells.  Detailed balance calculations support this conclusion as well~\cite{g5}.}
+\textcolor{red}{By transforming the incoming solar radiation from a broad-band source to a more narrow-band one, STPV systems can operate at efficiencies exceeding the Shockley-Queisser limit of 44\% for silicon PV cells operating under diffuse radiation~\cite{scranton_from_gupta}.  This is due to the fact that the major factors that drive the Shockley-Queisser limit are losses due to below-bandgap radiation and thermalization, which are both dependent on the spectrum of light illuminating the PV cell~\cite{SQ}.  By efficiently altering the spectrum of light reaching the PV cell, the system efficiency can be increased.  In fact, the upper {\it theoretical} limit for STPV system efficiency is 85.4\%~\cite{A2}.  While reference \cite{RF_OptExp_2009} and \cite{global_opt} used many idealities, they clearly show that STPV systems are capable of having efficiencies above the Shockley-Queisser limit for single junction PV cells.  Detailed balance calculations support this conclusion as well~\cite{g5}.}
 
 \begin{table}
 	\caption{Efficiency, relative solar absorption, and relative thermal emission at a temperature of 1700 K of selected absorbing surfaces.}
@@ -801,12 +798,12 @@ exceeding the Shockley-Queisser limit are achievable in TPV/STPV systems.
 For example, one of the most promising simulated devices have shown conversion efficiencies of 26.2\% at 
 system temperatures of 1200$^\circ$C and a maximum conversion efficiency of 49\% was predicted for system 
 temperatures of about 2130 K~\cite{RF_OptExp_2009}.  However, the highest conversion efficiency measured
-for an STPV device is about 8\% for 1D photonic crystal structures composed of tungsten and YSZ at 
+for an STPV device is about 8\% for 1D photonic crystal structures of composed of tungsten and YSZ at 
 device temperatures of 1640 K~\cite{SKY_JPE_2015}.  This large gap in system efficiency is due to the lack of temperature-stable 
 nanostructures and high losses in experimental STPV systems.  Future theoretical design methodologies should involve
 explicit considerations of aspects like thermal properties of materials and the thermal deformation of 
 nanostructures to guide the fabrication of structures that are more robust to thermal degradation.    
-Additional thermal management strategies including the use of ST systems in tandem with STPV systems to capture waste heat from the STPV device
+Additionally, management strategies including the use of ST systems in tandem with STPV systems to capture waste heat from the STPV device
 should be explored.}
 
 \section*{Acknowledgments}
