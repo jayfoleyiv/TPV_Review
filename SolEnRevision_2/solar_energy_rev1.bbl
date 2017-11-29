@@ -1,0 +1,671 @@
+\providecommand{\noopsort}[1]{}\providecommand{\singleletter}[1]{#1}%
+\begin{thebibliography}{100}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{g1}
+M.~Thirugnanasambandam, S.~Iniyan, R.~Goic, A review of solar thermal
+  technologies, Renewable and Sustainable Energy Reviews 14 (2010) 312--322.
+
+\bibitem{g2}
+Y.~Tian, C.~Y. Zhao, A review of solar collectors and thermal energy storage in
+  solar thermal applications, Applied Energy 104 (2013) 538--553.
+
+\bibitem{g3}
+T.~Bauer, Thermophotovoltaics: basic principles and critical aspects of system
+  design, Springer, 2011.
+
+\bibitem{g4}
+P.~Bermel, M.~Ghebrebrhan, W.~Chan, Y.~X. Yeng, M.~Araghchini, R.~Hamam, C.~H.
+  Marton, K.~F. Jensen, M.~Soljacic, J.~D. Joannopoulos, S.~G. Johnson,
+  I.~Celanovic, Design and global optimization of high-efficiency
+  thermophotovoltaic systems, Opt. Express 18 (2010) A314--334.
+
+\bibitem{g5}
+N.~Harder, P.~Wurfel, Theoretical limits of thermophotovoltaic solar energy
+  conversion, Semiconductor Science and Technology 18 (2003) S151.
+
+\bibitem{nnn1}
+O.~Dupre, R.~Vaillon, M.~A. Green, Optimization of solar thermophotovoltaic
+  systems including the thermal balance, Proc. of the 43rd IEEE PVSC.
+
+\bibitem{g6}
+C.~Ferrari, F.~Melino, M.~Pinelli, P.~R. Spina, M.~Venturini, Overview and
+  status of thermophotovoltaic systems, Energy Procedia 45 (2014) 1160--1169.
+
+\bibitem{g7}
+P.~Bermel, J.~Lee, J.~D. Joannopoulos, I.~Celanovic, M.~Soljacie, Selective
+  solar absorbers, Annual Review of Heat Transfer, Begell House Inc., 2012,
+  Ch.~7.
+
+\bibitem{g8}
+T.~Inoue, M.~Zoysa, T.~Asano, S.~Noda, Realization of narrowband thermal
+  emission with optical nanostructures, Optica 2 (2015) 27.
+
+\bibitem{g9}
+A.~Lenert, D.~M. Bierman, Y.~Nam, W.~R. Chan, I.~Celanovic, M.~Soljacic, E.~N.
+  Wang, A nanophotonic solar thermophotovoltaic device, Nat. Nanotechnol. 9
+  (2014) 126--130.
+
+\bibitem{RF_OptExp_2009}
+E.~Rephaeli, S.~Fan, Absorber and emitter for solar thermophotovoltaic systems
+  to achieve efficiency exceeding the schockley-queisser limit, Opt. Express 17
+  (2009) 15145--15159.
+
+\bibitem{G_PS_1985}
+C.~G. Granqvist, Spectrally selective coatings for energy efficiency and solar
+  applications, Phys. Scripta 32 (1985) 401.
+
+\bibitem{C_RPP_2014}
+S.~Collin, Nanostructure arrays in free space: optical properties and
+  applications, Rep. Prog. Phys. 77 (2014) 126402.
+
+\bibitem{SteadyStateAnalysis}
+A.~Datas, D.~L. Chbb, A.~Veeraragavan, Steady state analysis of a storage
+  integrated solar thermophotovoltaic (sistpv) system, Sol. Energy 96 (2013)
+  33--45.
+
+\bibitem{Night_time_Performance}
+A.~Veeraragavan, L.~Montgomery, A.~Datas, Night time performance of a storage
+  intergrated solar thermophotovoltaic (sistpv) system, Sol. Energy 108 (2014)
+  377--389.
+
+\bibitem{Prototype_TPV}
+W.~Durisch, B.~Bitnar, F.~von Roth, G.~Palfinger, Small thermophotovoltaic
+  prototype systems, Sol. Energy 75 (2003) 11--15.
+
+\bibitem{RKR_RenEnRev_2013}
+V.~S. Reddy, S.~C. Kaushik, K.~R. Ranjan, S.~K. Tyagi, State-of-the-art of
+  solar thermal power plants-a review, Renew. Sust. Energ. Rev. 27 (2013)
+  258--273.
+
+\bibitem{nnnNature}
+D.~M. Blerman, A.~J. Lenert, W.~R. Chan, B.~Bhatka, I.~Celanovic, M.~Soljacic,
+  E.~N. Wang, Enhanced photovoltaic energy conversion using thermally based
+  spectral shaping, Nat. Enrgy. 1 (2016) 1--7.
+
+\bibitem{g11}
+V.~Rinnerbauer, A.~Lenert, D.~M. Bierman, Y.~X. Yeng, W.~R. Chan, R.~D. Geil,
+  J.~J. Senkevich\, J.~D. Joannopoulos, E.~N. Wang, M.~Soljacic, I.~Cleanovic,
+  {Metallic photonic crystal absorber-emitter for efficient spectral control in
+  high-temperature solar thermophotovoltaics}, Advanced Energy Materials 4
+  (2014) 1400334.
+
+\bibitem{NYL_SEMSC_2014}
+Y.~Nam, Y.~X. Yeng, A.~Lenert, P.~Bermel, I.~Celanovic, M.~Solja\v{c}i\'{c},
+  E.~N. Wang, Solar thermophotovoltaic energy conversion systems with
+  two-dimensional tantalum photonic crystal absorbers and emitters, Sol. Energy
+  Mat. Sol. Cells 122 (2014) 287 -- 296.
+
+\bibitem{g13}
+V.~Stelmakh, V.~Rinnerbauer, W.~R. Chan, J.~J. Senkevich, J.~D. Joannopoulos,
+  M.~Soljacic, I.~Celanovic, Tantalum-tungsten alloy photonic crystals for
+  high-temperature energy conversion systems, Proceedings of the SPIE - The
+  International Society for Optical Engineering 9127 (2014) 91270Q.
+
+\bibitem{g14}
+I.~Celanovic, N.~Jovanovic, J.~Kassakian, Two-dimensional tungsten photonic
+  crystals as selective thermal emitters, Appl. Phys. Lett. 92 (2008) 193101.
+
+\bibitem{g15}
+H.~Wang, V.~P. Sivan, A.~Mitchell, G.~Rosengarten, P.~Phelan, L.~Wan, Highly
+  efficient selective metamaterial absorber for high-temperature solar thermal
+  energy harvesting, Sol. Energy Mat. Sol. Cells 137 (2015) 235--242.
+
+\bibitem{g16}
+X.~Liu, T.~Tyler, T.~Starr, A.~Starr, N.~Jokerst, W.~Padilla, Taming the
+  blackbody with infrared metamaterials as selective thermal emitters, Phys.
+  Rev. Lett. 107 (2011) 045901.
+
+\bibitem{g17}
+I.~Khodasevvch, L.~Wang, A.~Mitchell, G.~Rosengarten, Micro and nanostructured
+  surfaces for selective solar absorption, Adv. Opt. Mater. 107 (2015) 045901,
+  {doi: 10.1002/adom.201500063}.
+
+\bibitem{g18}
+Y.~Son, J.~Yeo, C.~Woo, H.~Sukjoon, H.~Seung, H.~Ko, D.~Yang, Fabrication of
+  submicron-sized metal patterns on a flexible polymer substrate by femtosecond
+  laser sintering of metal nanoparticles, International Journal of
+  Nanomanufacturing 9 (2013) 468--476.
+
+\bibitem{g19}
+E.~P.~B. Filho, O.~S.~H. Mendoza, C.~L.~L. Beicker, A.~Menezes, D.~Wen,
+  Experimental investigation of a silver nanoparticle-based direct absorption
+  solar thermal system, Energy Conversion and Management 84 (2014) 261--267.
+
+\bibitem{g20}
+G.~Katumba, L.~Olumekor, A.~Forbes, G.~Makiwa, B.~Mwakikunga, J.~Lu,
+  E.~Wackelgard, Optical, thermal and structural characteristics of carbon
+  nanoparticles embedded in {Z}n{O} and {N}i{O} as selective solar absorbers,
+  Sol. Energy Mater. and Solar Cells 92 (2008) 1285--1292.
+
+\bibitem{g21}
+A.~A. Shah, M.~C. Gupta, Spectral selective surfaces for concentrated solar
+  power receivers by laser sintering of tungsten micro and nano particles, Sol.
+  Energy Mat. Sol. Cells 117 (2013) 489--493.
+
+\bibitem{g22}
+J.~H. Schon, G.~Binder, E.~Bucher, Performance and stability of some new
+  high-temperature selective absorber systems based on metal/dielectric
+  multilayers, Sol. Energy Mat. Sol. Cells 33 (1994) 403--416.
+
+\bibitem{g25}
+V.~K. Narasimhan, Y.~Cui, Nanostructures for photon management in solar cells,
+  Nanophotonics 2 (2013) 187–210.
+
+\bibitem{g26}
+M.~C. Gupta, B.~K. Nayak, V.~Iyengar, L.Wang, Efficient light trapping by laser
+  microtexturing of surfaces for photovoltaics, SPIE NewsroomDOI:
+  10.1117/2.1201208.004361.
+
+\bibitem{g27}
+M.~C. Gupta, D.~E. Carlson, Laser processing for renewable energy materials,
+  MRS Energy and Sustainability: A Review JournalDOI:10.1557/mre.2015.3.
+
+\bibitem{g28}
+V.~V. Iyengar, B.~K. Nayak, M.~C. Gupta, Ultralow reflectance metal surfaces by
+  ultrafast laser texturing, Appl. Opt. 49 (2010) 5983--5988.
+
+\bibitem{L_AIP_2007}
+A.~Luque, Solar thermophotovoltaics: Combining solar thermal and photovoltaics,
+  AIP Conf. Proc. 890~(1) (2007) 3--16.
+
+\bibitem{TheoreticalEfficiency}
+J.~L. Duomarco, R.~Kaplow, Theoretical estimations of the efficiency of
+  thermophotovoltaic systems using high-intensity silicon solar cells, Sol.
+  Energy 32 (1984) 33--40.
+
+\bibitem{combineLuque}
+A.~Luque, Solar thermophotovoltaics: combining solar thermal and photovoltaics,
+  AIP Conference Proceedings 3 (2007) 3--16.
+
+\bibitem{concentrationGleckman}
+P.~Gleckman, J.~O'Gallagher, R.~Winston, Concentration of sunlight to
+  solar-surface levels using non-imaging optics, Nature 339 (1989) 198--200.
+
+\bibitem{MS_EnConvMan_2012}
+R.~K. McGovern, W.~J. Smith, Optimal concentration and temperatures of solar
+  thermal power plants, Energ. Convers. Manage. 60 (2012) 226--232.
+
+\bibitem{global_opt}
+A.~Datas, C.~Algora, Global optimization of solar thermophotovoltaic systems,
+  Progress in Photovoltaics: Research and Applications 21 (2013) 1040--1055.
+
+\bibitem{paper2_ref6}
+Y.~Xuan, X.~Chen, Y.~Han, Design and analysis of thermophotovoltaic systems,
+  Renew. Energ. 36 (2011) 374--387.
+
+\bibitem{paper1_ref5}
+K.~A. Arpin, M.~D. Losego, P.~V. Braun, {Electrodeposited 3D tungsten photonic
+  crystals with enhanced thermal stability}, Chemistry of Materials 23 (2011)
+  4783--4788.
+
+\bibitem{Palik}
+E.~D. Palik, Handbook of optical constants of solids, Academic Press, 1998.
+
+\bibitem{Chaud}
+T.~K. Chaudhuri, A solar thermophotovoltaic converter using pbs photovoltaic
+  cells, Int. J. Energy Res 16 (1992) 481--487.
+
+\bibitem{W_Melting}
+A.~Azens, M.~Kitenbergs, U.~Kanders, Evaporation of tungsten oxides: A
+  mass-spectrometric study of vapour contents, Vacuum 46 (1995) 745--747.
+
+\bibitem{Lightbulb}
+D.~MacIsaac, G.~Kanner, G.~Anderson, Basic physics of the incandescent lamp
+  (lightbulb), Phys. Teach. 37 (1999) 520.
+
+\bibitem{real_efficient}
+M.~Shimizu, A.~Kohiyama, H.~Yugami, {High-efficiency solar thermophotovoltaic
+  system equipped with a monolithic planar selective absorber/emitter}, J.
+  Photon. Energy 5 (2015) 053099.
+
+\bibitem{me1}
+C.~Ungaro, S.~K. Gray, M.~C. Gupta, Black tungsten for solar power generation,
+  Appl. Phys. Lett. 103~(7) (2013) 071105--071105--3.
+
+\bibitem{paper1_ref6}
+H.~Sai, H.~Yugami, Thermophotovoltaic generation with selective radiators based
+  on tungsten surface gratings, Appl. Phys. Lett. 85 (2004) 3399--3401.
+
+\bibitem{paper2_ref13}
+H.~Sai, Y.~Kanamori, K.~Hane, H.~Yugami, M.~Yamaguchi, Numerical study on
+  tungsten selective radiators with various micro/nano structures, Photovoltaic
+  Specialists Conference (2005) 762--765.
+
+\bibitem{paper2_ref14}
+Y.~B. Chen, Z.~M. Zhang, Design of tungsten complex gratings for
+  thermophotovoltaic radiators, Opt. Comm. 269 (2007) 411--417.
+
+\bibitem{Grann_JOSA}
+E.~B. Grann, M.~G. Moharam, Comparison between continuous and discrete
+  subwavelength grating structures for antireflection surfaces, J. Opt. Soc.
+  Am. 13 (1996) 988--922.
+
+\bibitem{me2}
+C.~Ungaro, S.~K. Gray, M.~C. Gupta, Graded-index structures for high-efficiency
+  solar thermophotovoltaic emitting surfaces, Opt. Lett. 39~(18) (2014)
+  5259--5262.
+
+\bibitem{G_JPCC_2013}
+S.~K. Gray, Theory and modeling of plasmonic structures, J. Phys. Chem. C 117
+  (2013) 1983--1994.
+
+\bibitem{Taflove_FDTD}
+A.~Taflove, S.~C. Hagness, Computational Electrodynamics: the finite-difference
+  time-domain method, Artech, 2000.
+
+\bibitem{Meep}
+A.~F. Oskooi, D.~Roundy, M.~Ibanescu, P.~Bermel, J.~D. Joannopoulos, S.~G.
+  Johnson, Meep: A flexible free-software package for electromagnetic
+  simulations by the {FDTD} method, Comp. Phys. Comm. 181 (2010) 687–702.
+
+\bibitem{Bohren}
+C.~F. Bohren, D.~R. Huffman, Absorption and Scattering of Light by Small
+  Particles, John Wiley and Sons, 1998.
+
+\bibitem{Yeh}
+P.~Yeh, Optical waves in layered media, Wiley, 2005.
+
+\bibitem{DF_JOptSocA_1994}
+B.~T. Draine, P.~J. Flatau, Discrete-dipole approximation for scattering
+  calculations, J. Opt. Soc. Am. A 11 (1994) 1491--1499.
+
+\bibitem{fem}
+J.~M. McMahon, Topics in theoretical and computational nanoscience: From
+  controlling light at the nanoscale to calculating quantum effects with
+  classical electrodynamics, Ph.D. thesis, Northwestern University (2011).
+
+\bibitem{RCWA1}
+M.~G. Moharam, D.~A. Pommet, E.~B. Grann, T.~K. Gaylor, Stable implementation
+  of the rigorous coupled-wave analysis for surface-relief gratings: enhanced
+  transmittance matrix approach, J. Opt. Soc. A 12 (1995) 1077.
+
+\bibitem{RCWA2}
+L.-L. Lin, Z.-Y. Li, K.-M. Ho, Lattice symmetry applied in transfer-matrix
+  methods for photonic crystals, J. Appl. Phys. 98 (2003) 811.
+
+\bibitem{A13}
+H.~Saia, H.~Yugamia, Y.~Kanamorib, K.~Hane, Solar selective absorbers based on
+  two-dimensional {W} surface gratings with submicron periods for
+  high-temperature photothermal conversion, Sol. Energy Mat. Sol. Cells 79
+  (2003) 35--49.
+
+\bibitem{RCWA3}
+V.~Rinnerbauer, Y.~Shen, J.~D. Joannopolous, M.~Soljaic, F.~Schaffler,
+  I.~Celanovic, Superlattice photonic crystal as broadband solar absorber for
+  high temperature operation, Opt. Express 22 (2014) A1895.
+
+\bibitem{BCM_PRB_1988}
+R.~G. Barrerra, M.~{del Castillo-Mussot}, G.~Monsivais, P.~Villaseor, W.~L.
+  Moch\'{a}n, Optical properties of two-dimensional disordered systems on a
+  substrate, Phys. Rev. B 38 (1988) 5371.
+
+\bibitem{BMM_PRB_1991}
+R.~G. Barrerra, G.~Monsivais, W.~L. Moch\'{a}n, Renormalized polarizability in
+  the maxwel garnett theory, Phys. Rev. B 43 (1991) 13819.
+
+\bibitem{YP_OptExpress_2012}
+S.~Yoo, Q.-H. Park, Effective permittivity for resonant plasmonic nanoparticle
+  systems via dressed polarizability, Opt. Express 20 (2012) 16480.
+
+\bibitem{AP_NatMat_2010}
+H.~A. Atwater, A.~Polman, Plasmonics for improved photovoltaic devices, Nature
+  Mater. 9 (2010) 205--213.
+
+\bibitem{GGG_NatComm_2012}
+J.~M. Geffrin, B.~Garc\'{i}a-C\'{a}mara, R.~G\'{o}omez-Medina, P.~Albella,
+  L.~S. Froufe-P\'{e}rez, C.~Eyraud, A.~Litman, R.~Vaillon, F.~Gonz\'{a}lez,
+  M.~Nieto-Vesperinas, J.~J. S\'{a}enz, F.~Moreno, Magnetic and electric
+  coherence in forward- and back-scattered electromagnetic waves by a single
+  dielectric subwavelength sphere, Nat. Commun. 3 (2012) 1171.
+
+\bibitem{CH_APL_2006}
+J.~R. Cole, N.~J. Halas, Optimized plasmonic nanoparticle distributions for
+  solar spectrum harvesting, Appl. Phys. Lett. 89 (2006) 153120.
+
+\bibitem{FKA_OptExp_2014}
+K.~T. Fountaine, C.~G. Kendall, H.~A. Atwater, Near-unity broadband absorption
+  designs for semiconducting nanowire arrays via localized radial mode
+  excitation, Opt. Express 22 (2014) A930.
+
+\bibitem{SVP_NatComm_2012}
+P.~Spinelli, M.~A. Verschuuren, A.~Polman, Broadband omnidirectional
+  antireflection coating based on subwavelength surface {M}ie resonators, Nat.
+  Commun. 3 (2012) 692.
+
+\bibitem{paper1_ref4}
+E.~Rephaeli, S.~Fan, Tungsten black absorber for solar light with wide angular
+  operation range, Appl. Phys. Lett. 92 (2008) 211107.
+
+\bibitem{BN_JApplPhys_2005}
+P.~Ben-Adballah, B.~Ni, Single-defect bragg stacks for high-power narrow-band
+  thermal emission, J. Appl. Phys 97 (2005) 104910.
+
+\bibitem{LZ_JApplPhys_2006}
+B.~J. Lee, Z.~M. Zhang, Design and fabrication of planar multilayer structures
+  with coherent thermal emission characteristics, J. Appl. Phys 100 (2006)
+  063529.
+
+\bibitem{FUS_OptExp_2015}
+J.~J. {Foley IV}, C.~Ungaro, K.~Sun, M.~C. Gupta, S.~K. Gray, Design of emitter
+  structures based on resonant perfect absorption for thermophotovoltaic
+  applications, Opt. Express 23 (2015) A1373.
+
+\bibitem{FMS_ACSPhoton_2014}
+J.~J. {Foley IV}, J.~M. McMahon, G.~C. Schatz, H.~Harutyunyan, G.~P.
+  Wiederrecht, S.~K. Gray, Inhomogeneous surface plasmon polaritons, ACS
+  Photonics 1 (2014) 739--745.
+
+\bibitem{CWH_JQSRT_2005}
+P.~C. Chang, J.~G. Walker, K.~I. Hopcraft, Ray tracing in absorbing media, J.
+  Quant. Spectrosc. Radiat. Transfer 96 (2005) 327--341.
+
+\bibitem{WH_PSSb_1987}
+L.~Wendler, R.~Haupt, An improved virtual mode theory of {ATR} experiments of
+  surface polaritons, Phys. Stat. Sol. b 143 (1987) 131--147.
+
+\bibitem{Maier}
+S.~M. Maier, Plasmonics: Fundamentals and applications, Springer, 2007.
+
+\bibitem{Novotny}
+L.~Novotny, B.~Hecht, Principles of nano-optics, 2nd Edition, Cambridge
+  University Press, 2012.
+
+\bibitem{FHR_SciRep_2015}
+J.~J. {Foley IV}, H.~Harutyunyan, D.~Rosenmann, R.~Divan, G.~P. Wiederrecht,
+  S.~K. Gray, When are surface plasmon polaritons excited in the
+  {K}retschmann-{R}aether configuration?, Sci. Rep. 5 (2015) 09929.
+
+\bibitem{DD_APL_2009}
+E.~F.~C. Driessen, M.~J.~A. de~Dood, The perfect absorber, Appl. Phys. Lett. 94
+  (2009) 171109.
+
+\bibitem{KSL_APL_2012}
+M.~A. Kats, D.~Sharma, J.~Lin, P.~Genevet, R.~Blanchard, Z.~Yang, M.~M.
+  Qazilbash, D.~N. Basov, S.~Ramanathan, F.~Capasso, Ultra-thin perfect
+  absorber employing a tunable phase change material, App. Phys. Lett. 101
+  (2012) 221101.
+
+\bibitem{KBG_NatMat_2013}
+M.~A. Kats, R.~Blachard, P.~Genevet, F.~Capasso, Nanometer optical coatings
+  based on strong interference effects in highly absorbing media, Nat. Mat. 12
+  (2013) 20--24.
+
+\bibitem{Raether}
+H.~Raether, Surface Plasmons on Smooth and Rough Surfaces and on Gratings,
+  Springer-Verlag, 1988.
+
+\bibitem{DB_JApplPhys_2007}
+J.~Drevillon, P.~Ben-Abdallah, {\it Ab initio} design of coherent thermal
+  sources, J. Appl. Phys. 102 (2007) 114305.
+
+\bibitem{NDJ_JApplPhys_2012}
+E.~Nefzaoui, J.~Drevillon, K.~Joulain, Selective emitters design and
+  optimization for thermophotovoltaic applications, J. Appl. Phys. 111 (2012)
+  084316.
+
+\bibitem{SKY_JPE_2015}
+M.~Shimizu, A.~Kohiyama, H.~Y. Yugami, High-efficiency solar-thermophotovoltaic
+  system equipped with a monolithic planar selective absorber/emitter, J.
+  Photon. Energy 5 (2015) 053099--53107.
+
+\bibitem{KJ_SciRep_2016}
+A.~Karalis, J.~D. Joannopoulos, `squeezing' near-field thermal emission for
+  ultra-efficient high-power thermophotovoltaic conversion, Sci. Rep. 6 (2016)
+  28472.
+
+\bibitem{rodriguez2011}
+A.~W. Rodriguez, O.~Ilic, P.~Bermel, I.~Celanovic, J.~D. Joannopoulos,
+  M.~Soljacic, S.~G. Johnson, Frequency-selective near-field radiative heat
+  transfer between photonic crystal slabs: A computational approach for
+  arbitrary geometries and materials, Phys. Rev. Lett. 107 (2011) 114302.
+
+\bibitem{datas2013}
+A.~Datas, D.~Hirashima, K.~Hanamura, {FDTD} simulation of near-field radiative
+  heat tansfer between thin films supporting surface phonon polaritons: Lessons
+  learned, J. Therm. Sci. Tech. 8 (2013) 91--105.
+
+\bibitem{didari2014}
+A.~Didari, M.~P. Menguc, Analysis of near-field radiation transfer within
+  nano-gaps using {FDTD} method, J. Quant. Spect. Radiat. Transf. 146 (2014)
+  214--226.
+
+\bibitem{didari2015}
+A.~Didari, M.~P. Menguc, Near-field thermal emission between corrugated
+  surfaces separated by nano-gaps, J. Quant. Spect. Radiat. Transf. 158 (2015)
+  43--51.
+
+\bibitem{SZF_NatNano_2016}
+R.~St-Gelais, L.~Zhu, S.~Fan, M.~Lipson, Near-field radiative heat transfer
+  between parallel structures in the deep subwavelength regime, Nat. Nano. 11
+  (2016) 515--519.
+
+\bibitem{AFB_NatComm_2011}
+K.~Aydin, V.~E. Ferry, R.~M. Briggs, H.~A. Atwater, Broadband
+  polarization-independent resonant light absorption using ultrathin plasmonic
+  super absorbers, Nature Comm. 2 (2011) 517.
+
+\bibitem{lumerical}
+{Lumerical Solutions, Inc.},
+  \url{http://www.lumerical.com/tcad-products/mode/}.
+
+\bibitem{YMH_PRE_2010}
+M.~A. Yurkin, M.~Min, A.~G. Hoekstra, Applicaton of the discrete dipole
+  approximation to very large refractive indices: Filtered doupled dipoles
+  revived, Phys. Rev. E 82 (2010) 036703.
+
+\bibitem{loke2010}
+V.~L.~Y. Loke, M.~P. Menguc, Surface waves and atomic force microscope
+  probe-particle near-field coupling: discrete dipole approximation with
+  surface interaction, J. Opt. Soc. Am. A 27 (2010) 2293--2303.
+
+\bibitem{edalatpour2014}
+S.~Edalatpour, M.~Francoeur, The thermal discrete dipole approximation (t-dda)
+  for near-field radiative heat transfer simulations in three-dimensional
+  arbitrary geometries, J. Quant. Spect. Radiat. Transf. 133 (2015) 364--373.
+
+\bibitem{Simplex}
+J.~A. Nelder, R.~Mead, A simplex method for function minimization, Comp. J. 7
+  (1965) 308--313.
+
+\bibitem{ga}
+A.~Lin, J.~Phillips, Optimization of random diffraction gratings in thin-film
+  solar cells using genetic algorithms, Sol. Energy Mat. Sol. Cells 92 (2008)
+  1689--1696.
+
+\bibitem{ParticleSwarm}
+M.~Clerc, Particle Swarm Optimization, Wiley, 2008.
+
+\bibitem{miller1}
+R.~L. Miller, Z.~Xie, S.~Leyffer, M.~J. Davis, S.~K. Gray, Surrogate-based
+  modeling of the optical response of metallic nanostructures, J. Phys. Chem. C
+  114 (2010) 20741--20748.
+
+\bibitem{NearFieldConcentrated}
+M.~Elzouka, S.~Ndao, Towards a near-field concentrated solar thermophotovoltaic
+  microsystem: Part i - modeling, Sol. Energy 141 (2017) 323--333.
+
+\bibitem{BDB_SciRep_2015}
+M.~P. Bernardi, O.~Dupr\'e, E.~Blandre, P.-O. Chapuis, R.~Vaillon,
+  M.~Francoeur, Impacts of propagating, frustrated and surface modes on
+  radiative, electrical and thermal losses in nanoscale-gap thermophotovoltraic
+  power generators, Sci. Rep 5 (2015) 11626.
+
+\bibitem{g29}
+V.~V. Iyengar, B.~K. Nayak, M.~C. Gupta, Optical characteristics of femtosecond
+  laser micromachined periodic structures in {S}i 100, Appl. Opt. 45 (2006)
+  7137--7143.
+
+\bibitem{g30}
+M.~C. Gupta, S.~T. Peng, Diffraction characteristics of surface-relief
+  gratings, Appl. Opt. 32 (1993) 2911--2917.
+
+\bibitem{LaserProcessing}
+W.~M. Steen, J.~Mazumder, Laser Material Processing, 4th Edition, Springer,
+  2010.
+
+\bibitem{GlancingAngle}
+M.~M. Hawkeye, M.~T. Tashuk, M.~J. Brett, Glancing Angle Deposition of Thin
+  Films: Engineering the Nanoscale, Wiley, 2014.
+
+\bibitem{gfig4ref}
+C.~Ungaro, A.~Shah, I.~Kravchenko, D.~K. Hensley, S.~K. Gray, M.~C. Gupta,
+  Optical and infrared properties of glancing angle deposited nanostructured
+  tungsten films, Opt. Lett. 40 (2015) 506--509.
+
+\bibitem{ssolar}
+{Schott Solar CSP GmbH},
+  \url{http://www.schott.com/d/csp/2ad9cb93-5b86-4a51-aead-a49b4e869ef8/1.0/schott_ptr70_4th_generation_datasheet.pdf}.
+
+\bibitem{ying}
+Y.~You, E.~J. Hu, A medium-temperature solar thermal power system and its
+  efficiency optimisation, Appl. Therm. Eng. 22 (2002) 357--364.
+
+\bibitem{high_temp_review_ST}
+C.~K. Ho, B.~D. Iverson, Review of high-temperature central receiver designs
+  for concentrating solar power, Renew. Sustainable Energy Rev. 29 (2014)
+  835--846.
+
+\bibitem{A1}
+N.~Selvakumar, H.~Barshilia, Review of physical vapor deposited (pvd)
+  spectrally selective coatings for mid- and high-temperature solar thermal
+  applications, Sol. Energy Mat. Sol. Cells 98 (2012) 1--23.
+
+\bibitem{A2}
+C.~E. Kennedy, Review of mid-to-high temperature solar selective absorber
+  materials. technical report nrel/tp-520-31267, Tech. rep., National Renew.
+  Energ. Laboratory (2002).
+
+\bibitem{A3}
+X.~Li, Y.~Chen, J.~Miao, P.~Zhou, Y.~Zheng, L.~Chen, High solar absorption of a
+  multilayered thin film structure, Opt. Express 15 (2007) 1907--1912.
+
+\bibitem{paper1_ref7}
+N.~P. Sergeant, O.~Pincon, M.~Agrawal, P.~Peumans, Design of wide-angle
+  solar-selective absorbers using aperiodic metal-dielectric stacks, Opt.
+  Express 17 (2009) 22800--22812.
+
+\bibitem{stacks2}
+N.~P. Sergeant, M.~Agrawal, P.~Peumans, High performance solar-selective
+  absorbers using coated sub-wavelength gratings, Opt. Express 18 (2010)
+  5525--5540.
+
+\bibitem{A4}
+S.~Esposito, A.~Antonaia, M.~Addonizio, S.~Aprea, Fabrication and optimization
+  of highly efficient cermet-based spectrally selective coatings for high
+  operating temperature, Thin Solid Films 517 (2009) 6000--6006.
+
+\bibitem{A5}
+L.~T. A.~Berghaus, A.~Djahanbakhsh, Characterisation of cvd - tungsten –
+  alumina cermets for high-temperature selective absorbers, Sol. Energy Mat.
+  Sol. Cells 54 (1998) 19--26.
+
+\bibitem{A6}
+M.~Farooq, M.~Hutchins, Optical properties of higher and lower refractive index
+  composites in solar selective coatings, Sol. Energy Mat. Sol. Cells 71 (2002)
+  73--83.
+
+\bibitem{A7}
+D.~Xinkang, W.~Cong, W.~Tianmin, Z.~Long, C.~Buliang, R.~Ning, Microstructure
+  and spectral selectivity of {M}o-{A}l$_2${O}$_3$ solar selective absorbing
+  coatings after annealing, Thin Solid Films 516 (2008) 3971--3977.
+
+\bibitem{A8}
+Q.~Zhang, Y.~Yin, D.~Mills, High efficiency {M}o-{A}l$_2${O}$_3$ cermet
+  selective surfaces for high-temperature applications, Sol. Energy Mat. Sol.
+  Cells 40 (1996) 43--53.
+
+\bibitem{A9}
+Q.~Zhang, Recent progress in high-temperature solar selective coatings, Sol.
+  Energy Mat. Sol. Cells 62 (2000) 63--74.
+
+\bibitem{A10}
+R.~Schmidt, K.~Park, High-temperature space-stable selective solar absorber
+  coatings, Appl. Opt. 4 (1965) 917--925.
+
+\bibitem{Therm_stabil_W_microstructures}
+C.~Schlemmer, J.~Aschaber, V.~Boerner, J.~Luther, Thermal stability of
+  micro-structured selective tungsten emitters, Thermophotovoltaic Generation
+  of Electricity: 5th Conference, CP653 - American Institute of Physics.
+
+\bibitem{photonic_crystal_rev}
+V.~Rinnerbauer, S.~Ndao, Y.~X. Yeng, W.~R. Chan, J.~J. Senkevich, J.~D.
+  Joannopoulos, M.~Soljacic, I.~Celanovic, Recent developments in
+  high-temperature photonic crystals for energy conversion, Energy and
+  Environmental Science.
+
+\bibitem{A19}
+F.~Ghmari, T.~Ghbara, M.~Laroche, R.~Carminati, J.-J. Greffet, Influence of
+  microroughness on emissivity, Journal of Applied Physics 96 (2004)
+  2656--2664.
+
+\bibitem{A14}
+A.~Lasagni, M.~Nejati, R.~Clasen, F.~Mucklich, Periodical surface structuring
+  of metals by laser interference metallurgy as a new fabrication method of
+  textured solar selective absorbers, Adv. Eng. Mater. 8 (2006) 580--584.
+
+\bibitem{convection}
+M.~Saidi, R.~H. Abardeh, Air pressure dependence of natural-convection heat
+  transfer, Proceedings of the World Congress on Engineering 2010 II.
+
+\bibitem{scranton_from_gupta}
+G.~Scranton, T.~P. Xiao, V.~Ganapati, J.~Holzrichter, P.~F. Peterson,
+  E.~Yablonovitch, Highly efficient thermophotovoltaics enabled by photon
+  re-use, in: 2016 IEEE 43rd Photovoltaic Specialists Conference (PVSC), 2016,
+  pp. 1026--1029.
+\newblock \href {http://dx.doi.org/10.1109/PVSC.2016.7749766}
+  {\path{doi:10.1109/PVSC.2016.7749766}}.
+
+\bibitem{SQ}
+W.~Shockley, H.~J. Queisser, Detailed balance limit of efficiency of p-n
+  junction solar cells, J. Appl. Phys 32 (1961) 510--519.
+
+\bibitem{cermet6}
+J.~Wang, B.~Wei, Q.~Wei, D.~Li, {Optical property and thermal stability of
+  {M}o/{M}o-{S}i{O}$_2$/{S}i{O}$_2$ solar-selective coating prepared by
+  magnetron sputtering}, Physica Status Solidi A 208 (2011) 664--667.
+
+\bibitem{MIT_paper}
+A.~Lenert, D.~M. Bierman, Y.~Nam, W.~R. Chan, I.~Celanovic, M.~Soljacic, E.~N.
+  Wang, A nanophotonic solar thermophotovoltaic device, Nat. Nanotechnol. 9
+  (2014) 126--130.
+
+\bibitem{exp_russia}
+A.~S. Vlasov, V.~P. Khvostikov, O.~A. Khvostikova, P.~Y. Gazaryan, S.~V.
+  Sorokina, V.~M. Andreev, {TPV systems with solar powered tungsten emitters},
+  AIP Conference Proceedings 890 (2007) 327--334.
+
+\bibitem{exp_tokyo}
+H.~Yugami, H.~Sai, K.~Nakamura, H.~Nakagawa, H.~Ohtsubo, Solar
+  thermophotovoltaic using {A}l$_2${O}$_3$/{E}r$_3${A}l$_5${O}$_{12}$ eutectic
+  composite selective emitter, IEEE Photovoltaic Specialists Conference 28
+  (2000) 1214--1217.
+
+\bibitem{exp_madrid}
+A.~Datas, C.~Algora, Development and experimental evaluation of a complete
+  solar thermophotovoltaic system, Progress in Photovoltaics: Research and
+  Applications 890 (2012) 327--334.
+
+\bibitem{me_thesis}
+C.~Ungaro, {Control of optical properties of surfaces for improved solar
+  thermophotovoltaic systems}, Phd thesis, University of Virginia (2015).
+
+\bibitem{paper2_ref10}
+S.~Lin, J.~Moreno, J.~G. Fleming, {Three-dimensional photonic-crystal emitter
+  for thermal photovoltaic power generation}, Appl. Phys. Lett. 83 (2003)
+  380--382.
+
+\bibitem{meta}
+C.~Wu, B.~N. III, J.~John, A.~Milder, B.~Zollars, S.~Savoy, G.~Shvets,
+  Metamaterial-based integrated plasmonic absorber/emitter for solar
+  thermo-photovoltaic systems, J. Optics 14 (2012) 24005--24008.
+
+\bibitem{me3}
+C.~Ungaro, S.~K. Gray, M.~C. Gupta, A solar thermophotovoltaic system using
+  nanostructures, Opt. Express 23 (2015) A111--A1119.
+
+\end{thebibliography}

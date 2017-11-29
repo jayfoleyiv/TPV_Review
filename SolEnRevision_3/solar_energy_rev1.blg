@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: solar_energy_rev1.aux
+The style file: elsarticle-num.bst
+Database file #1: solar_energy_rev1.bib
+Warning--empty pages in g7
+You've used 143 entries,
+            2937 wiz_defined-function locations,
+            1484 strings with 28832 characters,
+and the built_in function-call counts, 40680 in all, are:
+= -- 3708
+> -- 1616
+< -- 5
++ -- 633
+- -- 490
+* -- 2846
+:= -- 5826
+add.period$ -- 144
+call.type$ -- 143
+change.case$ -- 137
+chr.to.int$ -- 9
+cite$ -- 144
+duplicate$ -- 1139
+empty$ -- 4397
+format.name$ -- 614
+if$ -- 10470
+int.to.chr$ -- 0
+int.to.str$ -- 143
+missing$ -- 150
+newline$ -- 439
+num.names$ -- 143
+pop$ -- 807
+preamble$ -- 2
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2477
+stack$ -- 0
+substring$ -- 2493
+swap$ -- 141
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 272
+width$ -- 146
+write$ -- 1143
+(There was 1 warning)
