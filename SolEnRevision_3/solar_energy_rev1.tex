@@ -95,7 +95,7 @@ is shown in Figure \ref{gfig_bbs}{\bf A}.  Figure \ref{gfig_bbs}{\bf B} and {\bf
 STPV, ST, and TPV systems all share common surfaces but operate under
 different conditions.  ST and STPV systems offer an alternative to PV
 power generation in alternative energy systems.  Since both are heat
-engines, they \textcolor{red}{are bounded by the Carnot limit and can
+engines, they \textcolor{black}{are bounded by the Carnot limit and can
 theoretically exhibit extremely high efficiencies under high (but attainable) operating conditions.}
 \textcolor{black}{Additionally, since both ST and STPV systems rely on
 elements heated to high temperatures via concentrated solar energy, they
@@ -114,7 +114,7 @@ energy~\cite{Prototype_TPV}.  This allows them to be used in energy
 reclamation systems.}
 
 While both ST and STPV systems are capable of
-\textcolor{red}{efficiencies approaching 85\%}, only ST systems have yet been
+\textcolor{black}{efficiencies approaching 85\%}, only ST systems have yet been
 realized with high real-world efficiency~\cite{RF_OptExp_2009, RKR_RenEnRev_2013, nnnNature}.  This is due primarily to the challenges
 related to the extremely high temperature operation of STPV systems; it is
 the view of the authors that this presents exciting opportunities for
@@ -192,7 +192,7 @@ maximum STPV system efficiency vs. temperature for an ideal system.
 \begin{figure}[ht!]
 \begin{center}
         \includegraphics[width=0.5\textwidth]{ideal_STPV_eff}
-        \caption{\label{Ideal} \textcolor{red}{Maximum theoretical efficiency for various STPV system temperatures.  This ideal limiting
+        \caption{\label{Ideal} \textcolor{black}{Maximum theoretical efficiency for various STPV system temperatures.  This ideal limiting
 efficiency can be computed from the product of a Carnot efficiency for the system 
 with an absorber efficiency which accounts for the 
 radiative losses that the system will experience as a function of temperature.  The fast increase
@@ -389,7 +389,7 @@ as \begin{equation}\label{Fresnel}
   M_{1,1} & M_{1,2} \\ M_{2,1} & M_{2,2}  \end{pmatrix} \begin{pmatrix}
   E_L^+ \\ E_L^-  \end{pmatrix},
 \end{equation} where the elements $M_{i,j}$ depend on the material
-properties (the complex refractive index, \textcolor{red}{($\tilde{n} =
+properties (the complex refractive index, \textcolor{black}{($\tilde{n} =
 n+ik$)} and geometry of each layer, as well as the frequency and
 polarization of incident light.  The precise form of these elements can be
 found in the excellent treatment by Yeh~\cite{Yeh}, and this method has
@@ -492,13 +492,13 @@ be chosen judiciously.  Drevillon and Ben-Abdallah~\cite{DB_JApplPhys_2007}, as 
 have developed robust optimization 
 methodologies that steer multilayer structures to an optimal emissivity profile. The optimum of the emissivity
 profile can be defined in a variety of ways with respect to variables including the PV cell and operating conditions.
-One such approach for defining such a profile involves using the \textcolor{red}{ultimate efficiency} of the emitter as a figure-of-merit,
-where the \textcolor{red}{ultimate efficiency} depends on the emissivity of the structure, the band-gap of the PV cell, and the target 
+One such approach for defining such a profile involves using the \textcolor{black}{ultimate efficiency} of the emitter as a figure-of-merit,
+where the \textcolor{black}{ultimate efficiency} depends on the emissivity of the structure, the band-gap of the PV cell, and the target 
 temperature of operation (see section {\it 4.2}).  
 The emissivity can be computed from the reflectance
 and transmission using the Transfer Matrix Method, enabling efficient computation of the figure-of-merit.  The design problem can then be
 formulated as a maximization of the figure-of-merit in terms of the geometry and material properties of the emitter structure.
-This approach has been employed to design 1D photonic crystals involving tungsten and dielectric layers with \textcolor{red}{ultimate efficiencies} of 
+This approach has been employed to design 1D photonic crystals involving tungsten and dielectric layers with \textcolor{black}{ultimate efficiencies} of 
 about 53\% ~\cite{SKY_JPE_2015} (see Table 2).  Similarly, the Transfer 
 Matrix Method can be used to design broad-band absorbers, 
 and has led to the prediction of 
@@ -512,7 +512,7 @@ certain characteristics can perform as exceptional selective emitters.  These ch
 encoded directly into a search routine that allows for the identification of structure geometries that support these modes.  The
 optimization over the figure-of-merit is therefore replaced with a search for a zero in T and R, which is equivalent to finding
 a zero in the transfer matrix element $M_{2,1}$ under the condition that the transmission is also zero, which can be easily satisfied.
-This approach has predicted structures with \textcolor{red}{ultimate efficiencies} of 68\% at operating temperatures of 1750 K when coupled
+This approach has predicted structures with \textcolor{black}{ultimate efficiencies} of 68\% at operating temperatures of 1750 K when coupled
 with common PV materials~\cite{FUS_OptExp_2015}. The TMM has also been applied by Karalis and Joannopolous to the design of planar emitter/PV cell
 systems separated by subwavelength gaps that exploit near-field radiative heat transfer effects, which can exceed the far-field
 limit bounded by the Planck blackbody law~\cite{KJ_SciRep_2016}.  In their approach, the dispersions of the planar emitter and PV cell are designed
@@ -583,7 +583,7 @@ thin-film PV materials~\cite{AFB_NatComm_2011}.  Several of the current authors 
 study and
 design tungsten absorber surfaces patterned with nanocones 
 with absorption efficiencies of 80\%~\cite{me1} (see Table 1),
-as well as tungsten blazed grating emitter surfaces with \textcolor{red}{ultimate efficiencies} of 59\%~\cite{me2} (see Table 2).
+as well as tungsten blazed grating emitter surfaces with \textcolor{black}{ultimate efficiencies} of 59\%~\cite{me2} (see Table 2).
 
 Many codes like Lumerical~\cite{lumerical}, a commercial-grade
 FDTD simulator, and MEEP~\cite{Meep}, an open-source FDTD code, have scripting
@@ -661,7 +661,7 @@ allowed the design of many novel and useful systems for radiative control.  Howe
 overall conversion efficiencies of TPV/STPV systems often fall around 3-8\%,  well short of the theoretical limit of 85\%.  A significant challenge remains in integrating
 various theoretical methodologies to model and optimize global device performance~\cite{g4,g9}.
 In principle, nanostructured systems may be designed or discovered by coupling the various electrodynamics modeling approaches described above 
-to global optimization methods.  Generally, an appropriate figure-of-merit to be maximized is identified, e.g. the \textcolor{red}{ultimate efficiency} which will
+to global optimization methods.  Generally, an appropriate figure-of-merit to be maximized is identified, e.g. the \textcolor{black}{ultimate efficiency} which will
 be discussed in detail later, and repeated calculations of the figure-of-merit are carried out while adjusting the features of the nanostructure until 
 a global optimum is found.  A plethora of multi-parameter optimization methods are available and have been used in the context of optimizing the 
 optical response of nanostructures, including clustering algorithms~\cite{g4}, the Simplex method~\cite{Simplex, CH_APL_2006}, genetic algorithms~\cite{ga,DB_JApplPhys_2007}, 
@@ -747,7 +747,7 @@ The high solar radiation absorption can be achieved by fabrication techniques su
 \subsection{Solar thermal}
 Solar thermal (ST) systems are solar powered devices that generate energy via a heat engine.  Incoming solar energy is concentrated on an absorbing surface, which is heated to high temperatures.  A heat exchange fluid is then used to draw energy from the absorbing surface to the heat engine.  Since heat engines can be more efficient at higher operating temperatures, \textcolor{black}{it is important for ST systems to remain stable at high temperatures, up to 1000$^\circ$C.  While current TPV technology allows for high absorbance (\textgreater0.9), low thermal emission (\textless0.1), and thermal stability (in evacuated tubes) at low operating temperatures (about 400$^\circ$C), overall system efficiency can be greatly improved by increasing temperatures~\cite{ssolar,ying}.  Unfortunately, current technologies lack thermal stability and will have high thermal emission under these conditions~\cite{high_temp_review_ST}.}
 
-\textcolor{red}{Because they operate at high temperatures, absorbing surfaces will lose energy through thermal emission.}  To reduce this loss, the thermal emittance of the absorbing surface must be minimized.  Here, we will define $\epsilon_{abs}$ as the thermal emittance of an absorbing surface held at a specific temperature relative to the thermal emittance of a blackbody held at the same temperature.  This means that an absorbing surface with an $\epsilon_{abs}$ of 0.5 at 1000$^\circ$C would have half the thermal emission of a blackbody at 1000$^\circ$C.  Note that the $\epsilon_{abs}$ of a surface can change drastically with temperature if its reflectivity and absorbance change for different wavelengths of light.  This is because the spectral composition of blackbody radiation changes with temperature.  At the same time, the solar absorptance ($\alpha_{sol}$) of the surface must be maximized to ensure a high power input into the device.
+\textcolor{black}{Because they operate at high temperatures, absorbing surfaces will lose energy through thermal emission.}  To reduce this loss, the thermal emittance of the absorbing surface must be minimized.  Here, we will define $\epsilon_{abs}$ as the thermal emittance of an absorbing surface held at a specific temperature relative to the thermal emittance of a blackbody held at the same temperature.  This means that an absorbing surface with an $\epsilon_{abs}$ of 0.5 at 1000$^\circ$C would have half the thermal emission of a blackbody at 1000$^\circ$C.  Note that the $\epsilon_{abs}$ of a surface can change drastically with temperature if its reflectivity and absorbance change for different wavelengths of light.  This is because the spectral composition of blackbody radiation changes with temperature.  At the same time, the solar absorptance ($\alpha_{sol}$) of the surface must be maximized to ensure a high power input into the device.
 
 For a surface to have high $\alpha_{sol}$ and low $\epsilon_{abs}$, it must have a low reflectance and high absorbance in visible wavelengths (where most solar light is located), and a high reflectance in the near infra-red (NIR) region (where most thermal emission is located).  This is a type of spectrally selective surface.  These surfaces must also remain stable under the high operating temperatures found in ST systems.  The relative importance of high $\alpha_{sol}$ and low $\epsilon_{abs}$ can change due to changes in system parameters.  For example, higher operating temperatures increase thermal emission and place more importance on achieving a low $\epsilon_{abs}$, while higher solar concentrations result in achieving a high $\alpha_{sol}$ being more important.
 
@@ -770,7 +770,7 @@ Sub-wavelength roughness on metallic substrates can also increase solar absorban
 Typical STPV systems consist of an absorbing/emitting structure that is held under vacuum to reduce convective losses and increase thermal stability~\cite{global_opt, convection}.  Then, sunlight is focused on the absorbing surface of the structure, where it is absorbed and converted into thermal energy.  This results in the absorbing/emitting structure becoming very hot, with temperatures up to 1750 K common in these systems.  As the system temperature rises, it begins to emit a large amount of thermal radiation.  The portion of thermal energy that is emitted by the emitting surface can then be collected by a PV cell and converted into electrical energy.  An additional advantage of STPV systems is their ability to store absorbed energy as heat, which is more efficient than battery storage with traditional PV cells.  STPV technology can also be easily adapted to thermophotovoltaic (TPV) systems, which operate similarly but use a burning fuel or waste heat as a thermal source instead of the sun.
 
 
-\textcolor{red}{By transforming the incoming solar radiation from a
+\textcolor{black}{By transforming the incoming solar radiation from a
 broad-band source to a more narrow-band one, STPV systems can operate at
 efficiencies far exceeding the efficiency limit of 29\%
 for single-junction silicon PV cells~\cite{scranton_from_gupta}, or the
@@ -787,7 +787,7 @@ idealities, they clearly show that STPV systems are capable of having
 efficiencies above the 40.8\% limit for single junction PV cells.
 Detailed balance calculations support this conclusion as well~\cite{g5}.}
 \begin{table}
-	\caption{\textcolor{red}{Absorber efficiency corresponding to equation \ref{overall_sss_eq}, relative solar absorption, and relative thermal emission. 
+	\caption{\textcolor{black}{Absorber efficiency corresponding to equation \ref{overall_sss_eq}, relative solar absorption, and relative thermal emission. 
 These data correspond to a temperature of 1700 K and a concentration factor of 2500 for selected absorbing surfaces.}}
 	\label{abs_eff_table}
 	\begin{center}
@@ -831,14 +831,14 @@ Table \ref{abs_eff_table} shows the $\alpha_{sol}$ and $\epsilon_{abs}$ of some 
 \label{overall_sss_eq}\eta_{abs}(T)& = \frac{\int_{0}^{\infty}\left\{E_{inc}(\lambda)\alpha(\lambda)-\epsilon(\lambda)B(\lambda,T)\right\}d\lambda}{\int_{0}^{\infty}E_{inc}(\lambda)d\lambda}\\
 \label{e_incident}E_{inc}(\lambda) &= C \: E_{sun}(\lambda),
 \end{align}
-where $\alpha(\lambda)$ is the spectral absorption of the surface, $\epsilon(\lambda)$ is the spectral emittance of the surface, \textcolor{red}{$C$ is the concentration factor of incoming sunlight, including concentrator ratio and concentrator efficiency,} $E_{sun}(\lambda)$ is the 
+where $\alpha(\lambda)$ is the spectral absorption of the surface, $\epsilon(\lambda)$ is the spectral emittance of the surface, \textcolor{black}{$C$ is the concentration factor of incoming sunlight, including concentrator ratio and concentrator efficiency,} $E_{sun}(\lambda)$ is the 
 spectral irradiance of the sun at the earth's surface, $B(\lambda, T)$ is 
 Planck's law for blackbody radiation, and $E_{inc}(\lambda)$ is the spectral 
 energy incident on the absorbing surface.
 
-For emitting surfaces, a similar approach to absorbing surfaces can be taken, but with a focus on low reflectance in a narrow peak near a specific wavelength (which depends on the bandgap energy of the PV cell used), as opposed to a broad low reflectance band in the visible region.  To accurately compare emitting surfaces, their \textcolor{red}{ultimate efficiency} is used.
+For emitting surfaces, a similar approach to absorbing surfaces can be taken, but with a focus on low reflectance in a narrow peak near a specific wavelength (which depends on the bandgap energy of the PV cell used), as opposed to a broad low reflectance band in the visible region.  To accurately compare emitting surfaces, their \textcolor{black}{ultimate efficiency} is used.
 
-The \textcolor{red}{ultimate efficiency} is given by~\cite{me2}:
+The \textcolor{black}{ultimate efficiency} is given by~\cite{me2}:
 \begin{equation}\label{SpecEff}
 \eta = \frac{  \int_0^{\lambda_{bg}} \frac{ E_{bg} }{E_{\lambda}} \: B(\lambda, T) \: \epsilon_S (\lambda) \: d\lambda }
 {\int_0^{\infty} B(\lambda,T) \: \epsilon_S (\lambda) \: d\lambda}
@@ -857,7 +857,7 @@ a convenient way to compare the performance of various surfaces as well as
 a tool for optimization.  While PV cells with external quantum
 efficiencies that vary by wavelength could change the optimum bandgap
 stated by this equation, the effect is generally small and would need to
-be evaluated on a case by case basis.  \textcolor{red}{We note that typically, the emissivity of the emitter structure
+be evaluated on a case by case basis.  \textcolor{black}{We note that typically, the emissivity of the emitter structure
 will depend upon angle, and so the angular integration cannot simply be assumed to lead to a constant factor as suggested
 by Eq. (5) above; see, for example, Ref.~\cite{RF_OptExp_2009} for a definition of the emitter efficiency that depends
 explicitly upon emission angle.}
@@ -886,10 +886,10 @@ Two structures work particularly well for this purpose: dielectric-metal stacks 
 	\end{center}
 \end{table}
 
-\textcolor{black}{Many nanotextured emitting structures have been simulated to be extremely efficient \cite{paper2_ref13}.  These include blazed gratings on tungsten \cite{me2}, complex square gratings on tungsten \cite{paper2_ref14}, micro-cavities in tungsten \cite{paper2_ref6}, tungsten surface gratings \cite{paper1_ref6}, 3-D photonic crystals \cite{paper2_ref10}, and metamaterials \cite{meta}.  Table \ref{FOM_table} shows the \textcolor{red}{ultimate efficiencies} of some of these surfaces.  This shows a large increase in efficiency for selective emitters over blackbody emitters.  While experimental systems using these structures have not yet been realized, they promise large efficiency gains for the future.  Table \ref{STPV_sys_table} shows the electrical efficiencies of some simulated and experimental STPV systems. These efficiencies are for systems operating under AM1.5 solar simulators or real-world solar conditions.  They all are converting solar energy to usable electrical energy (work).}
+\textcolor{black}{Many nanotextured emitting structures have been simulated to be extremely efficient \cite{paper2_ref13}.  These include blazed gratings on tungsten \cite{me2}, complex square gratings on tungsten \cite{paper2_ref14}, micro-cavities in tungsten \cite{paper2_ref6}, tungsten surface gratings \cite{paper1_ref6}, 3-D photonic crystals \cite{paper2_ref10}, and metamaterials \cite{meta}.  Table \ref{FOM_table} shows the \textcolor{black}{ultimate efficiencies} of some of these surfaces.  This shows a large increase in efficiency for selective emitters over blackbody emitters.  While experimental systems using these structures have not yet been realized, they promise large efficiency gains for the future.  Table \ref{STPV_sys_table} shows the electrical efficiencies of some simulated and experimental STPV systems. These efficiencies are for systems operating under AM1.5 solar simulators or real-world solar conditions.  They all are converting solar energy to usable electrical energy (work).}
 
 
-The simulations outlined here show a large difference in predicted efficiency; however, a significant portion of this variation is caused by simulation parameters.  Since there is no standard for simulated STPV systems, some papers use an ideal model where only losses due to the surfaces are accounted for, while others use a more realistic model that encompasses many losses.  Namely, references \cite{RF_OptExp_2009} and \cite{global_opt} assume ideal PV cells, ideal solar concentrators, and assume an ideal view-factor between the emitting surface and solar cells.  References \cite{paper2_ref6}, \cite{me_thesis}, and \cite{NYL_SEMSC_2014} attempt to model PV cell losses and realistic absorbing and emitting surfaces.  Some of the remaining difference between efficiencies in the modeled systems is also due to differences in assumptions between simulations.  \textcolor{red}{Additional technical challenges associated with STPV and TPV systems that are not included in any of the aforementioned studies include the high resistance losses associated with large current outputs form PV cells, and the large amount of cooling necessary to hold the PV cells at adequate temperatures.  While the use of selective emitters does significantly reduce the thermal load on the PV cells, active cooling will still be necessary for systems which utilize a high level of solar concentration.  The power required for this cooling is not taken into account in the efficiency numbers outlined in this review.}
+The simulations outlined here show a large difference in predicted efficiency; however, a significant portion of this variation is caused by simulation parameters.  Since there is no standard for simulated STPV systems, some papers use an ideal model where only losses due to the surfaces are accounted for, while others use a more realistic model that encompasses many losses.  Namely, references \cite{RF_OptExp_2009} and \cite{global_opt} assume ideal PV cells, ideal solar concentrators, and assume an ideal view-factor between the emitting surface and solar cells.  References \cite{paper2_ref6}, \cite{me_thesis}, and \cite{NYL_SEMSC_2014} attempt to model PV cell losses and realistic absorbing and emitting surfaces.  Some of the remaining difference between efficiencies in the modeled systems is also due to differences in assumptions between simulations.  \textcolor{black}{Additional technical challenges associated with STPV and TPV systems that are not included in any of the aforementioned studies include the high resistance losses associated with large current outputs form PV cells, and the large amount of cooling necessary to hold the PV cells at adequate temperatures.  While the use of selective emitters does significantly reduce the thermal load on the PV cells, active cooling will still be necessary for systems which utilize a high level of solar concentration.  The power required for this cooling is not taken into account in the efficiency numbers outlined in this review.}
 
 Despite the assumptions in these models, they show that nanostructured surfaces are extremely important to ensure adequate spectral selectivity in these systems.  References \cite{paper2_ref6}, \cite{me_thesis}, and \cite{NYL_SEMSC_2014} predict high potential operating efficiencies using realistic operating conditions.  The primary reason that experimental systems lag behind simulations is because a lack of high quality nanostructures in these systems \cite{SKY_JPE_2015,me3}.  The YSZ and W stack used in \cite{SKY_JPE_2015} proved to be a less efficient solution for both the absorbing and emitting surfaces than other surfaces examined in this article.  In \cite{me3}, secondary, less efficient surfaces had to be used for both the absorbing and emitting structures due to fabrication problems. References \cite{SKY_JPE_2015,MIT_paper,nnnNature} uses a blackbody absorbing surface, which results in suboptimal efficiency.  Still, these devices are able to achieve very high operating efficiencies by operating at low temperatures to mitigate thermal emission from the absorber and by using nanostructured emitting surfaces.  The inclusion of an extra filter on emitted light to reduce losses in the emitting surface can also increase efficiency\cite{nnnNature}.  Still, theoretical efficiencies are much higher than experimental ones. This points to a large increase in efficiency that can be achieved by using nanostructures to close the gap between experimental and theoretical devices.  The simulation and fabrication methods outlined in this paper show that this is possible.
 
